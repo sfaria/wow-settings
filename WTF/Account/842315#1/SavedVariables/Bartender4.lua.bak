@@ -4,23 +4,23 @@ Bartender4DB = {
 		["StatusTrackingBar"] = {
 			["profiles"] = {
 				["Fremdschämen - Draenor"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 62,
 						["x"] = -515,
 						["point"] = "BOTTOM",
 						["scale"] = 1.264999985694885,
 					},
+					["version"] = 3,
 				},
 				["Spießer - Draenor"] = {
 					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 62,
 						["x"] = -515,
 						["point"] = "BOTTOM",
 						["scale"] = 1.264999985694885,
 					},
-					["version"] = 3,
 				},
 				["Derptarogar - Draenor"] = {
 					["version"] = 3,
@@ -38,14 +38,14 @@ Bartender4DB = {
 				["Fremdschämen - Draenor"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 121.8303510203496,
-								["x"] = 474.1551186487959,
-								["point"] = "BOTTOMLEFT",
+								["x"] = -395.3876024179699,
+								["point"] = "BOTTOM",
 								["scale"] = 1.149999976158142,
 							},
+							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
@@ -57,6 +57,7 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
+							["rows"] = 12,
 							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
@@ -64,10 +65,10 @@ Bartender4DB = {
 								["x"] = -82,
 								["point"] = "BOTTOMRIGHT",
 							},
-							["rows"] = 12,
 							["padding"] = 5,
 						}, -- [3]
 						{
+							["rows"] = 12,
 							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
@@ -75,28 +76,27 @@ Bartender4DB = {
 								["x"] = -42,
 								["point"] = "BOTTOMRIGHT",
 							},
-							["rows"] = 12,
 							["padding"] = 5,
 						}, -- [4]
 						{
 							["enabled"] = false,
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 85.37782287597656,
 								["x"] = 3.00018310546875,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 71.23035645629307,
-								["x"] = 474.1551186487959,
-								["point"] = "BOTTOMLEFT",
+								["y"] = 71.23034768248954,
+								["x"] = -395.3876024179699,
+								["point"] = "BOTTOM",
 								["scale"] = 1.149999976158142,
 							},
+							["padding"] = 6,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -110,13 +110,13 @@ Bartender4DB = {
 				["Spießer - Draenor"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
@@ -128,6 +128,7 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
+							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
@@ -135,9 +136,9 @@ Bartender4DB = {
 								["x"] = -82,
 								["point"] = "BOTTOMRIGHT",
 							},
-							["padding"] = 5,
 						}, -- [3]
 						{
+							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
@@ -145,25 +146,24 @@ Bartender4DB = {
 								["x"] = -42,
 								["point"] = "BOTTOMRIGHT",
 							},
-							["padding"] = 5,
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 110,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 110,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -248,20 +248,20 @@ Bartender4DB = {
 		["ExtraActionBar"] = {
 			["profiles"] = {
 				["Fremdschämen - Draenor"] = {
-					["version"] = 3,
 					["position"] = {
-						["y"] = -242.197021484375,
-						["x"] = -375.9235229492188,
+						["y"] = -295.4134216308594,
+						["x"] = -347.9353942871094,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Spießer - Draenor"] = {
+					["version"] = 3,
 					["position"] = {
-						["y"] = -252.4999389648438,
-						["x"] = -63.50006103515625,
+						["y"] = -246.4163818359375,
+						["x"] = -181.3137817382813,
 						["point"] = "CENTER",
 					},
-					["version"] = 3,
 				},
 				["Derptarogar - Draenor"] = {
 					["version"] = 3,
@@ -276,24 +276,24 @@ Bartender4DB = {
 		["MicroMenu"] = {
 			["profiles"] = {
 				["Fremdschämen - Draenor"] = {
-					["padding"] = -2,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 40,
 						["x"] = -291.9996337890625,
 						["point"] = "BOTTOMRIGHT",
 						["scale"] = 1,
 					},
+					["version"] = 3,
+					["padding"] = -2,
 				},
 				["Spießer - Draenor"] = {
+					["padding"] = -2,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
-					["version"] = 3,
-					["padding"] = -2,
 				},
 				["Derptarogar - Draenor"] = {
 					["padding"] = 3,
@@ -340,21 +340,21 @@ Bartender4DB = {
 		["BlizzardArt"] = {
 			["profiles"] = {
 				["Fremdschämen - Draenor"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Spießer - Draenor"] = {
 					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Derptarogar - Draenor"] = {
 					["leftCap"] = "NONE",
@@ -370,20 +370,20 @@ Bartender4DB = {
 		["StanceBar"] = {
 			["profiles"] = {
 				["Fremdschämen - Draenor"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99996185302734,
 						["x"] = -82.5,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Spießer - Draenor"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99996185302734,
 						["x"] = -82.5,
 						["point"] = "CENTER",
 					},
-					["version"] = 3,
 				},
 				["Derptarogar - Draenor"] = {
 					["version"] = 3,
@@ -401,7 +401,7 @@ Bartender4DB = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 159.280376071938,
-						["x"] = -373.5948816991913,
+						["x"] = -283.7126600318807,
 						["point"] = "BOTTOM",
 						["scale"] = 1.100000023841858,
 					},
@@ -427,20 +427,20 @@ Bartender4DB = {
 		["Vehicle"] = {
 			["profiles"] = {
 				["Fremdschämen - Draenor"] = {
-					["version"] = 3,
 					["position"] = {
-						["y"] = 42.50006103515625,
-						["x"] = 104.5,
-						["point"] = "CENTER",
+						["y"] = 215.0312042236328,
+						["x"] = -196.8201904296875,
+						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Spießer - Draenor"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
 						["x"] = 104.5,
 						["point"] = "CENTER",
 					},
-					["version"] = 3,
 				},
 				["Derptarogar - Draenor"] = {
 					["version"] = 3,
@@ -468,6 +468,7 @@ Bartender4DB = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
+			["buttonlock"] = true,
 		},
 		["Derptarogar - Draenor"] = {
 			["focuscastmodifier"] = false,

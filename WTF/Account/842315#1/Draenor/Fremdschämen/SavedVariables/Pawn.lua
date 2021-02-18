@@ -5,40 +5,40 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 38661,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:38661::::::::13:252::14:1:6691:2:28:869:9:13:::|h[Greathelm of the Scourge Champion]|h|r",
+			["ID"] = 180030,
+			["Level"] = 37,
+			["Link"] = "|cff0070dd|Hitem:180030::::::::30:252::11:1:4813:2:28:292:9:30:::|h[Bartered Vrykul Warhelm]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 38662,
-			["Level"] = 14,
-			["Link"] = "|cff0070dd|Hitem:38662::::::::10:1455::75:1:6691:1:9:10:::|h[Bladed Ebon Amulet]|h|r",
+			["Level"] = 28,
+			["Link"] = "|cff0070dd|Hitem:38662::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Bladed Ebon Amulet]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 38663,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:38663::::::::13:252::14:1:6691:2:28:869:9:13:::|h[Blood-Soaked Saronite Plated Spaulders]|h|r",
+			["Level"] = 28,
+			["Link"] = "|cff0070dd|Hitem:38663::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Blood-Soaked Saronite Plated Spaulders]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 38665,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:38665::::::::13:252::14:1:6691:2:28:869:9:13:::|h[Saronite War Plate]|h|r",
+			["ID"] = 175280,
+			["Level"] = 35,
+			["Link"] = "|cff0070dd|Hitem:175280::::::::29:252::25:1:4813:2:28:189:9:29:::|h[Rastari Breastplate]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 38668,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:38668::::::::13:252::14:1:6691:2:28:869:9:13:::|h[The Plaguebringer's Girdle]|h|r",
+			["Level"] = 28,
+			["Link"] = "|cff0070dd|Hitem:38668::::::::22:252::14:1:6691:2:28:869:9:22:::|h[The Plaguebringer's Girdle]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 38669,
-			["Level"] = 14,
-			["Link"] = "|cff0070dd|Hitem:38669::::::::10:1455::75:1:6691:1:9:10:::|h[Engraved Saronite Legplates]|h|r",
+			["ID"] = 158399,
+			["Level"] = 30,
+			["Link"] = "|cff1eff00|Hitem:158399::::::::25:252::11:1:4790:2:28:189:9:25:::|h[Rastari Wargreaves]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 38670,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:38670::::::::13:252::14:1:6691:2:28:869:9:13:::|h[Greaves of the Slaughter]|h|r",
+			["ID"] = 155242,
+			["Level"] = 31,
+			["Link"] = "|cff1eff00|Hitem:155242::::::::27:252::11:1:4790:2:28:189:9:27:::|h[Rastari Warboots]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 158445,
@@ -46,43 +46,43 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:158445::::::::17:252::11:1:3631:2:28:189:9:17:::|h[Rastari Armguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 38667,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:38667::::::::13:252::14:1:6691:2:28:869:9:13:::|h[Bloodbane's Gauntlets of Command]|h|r",
+			["ID"] = 161042,
+			["Level"] = 32,
+			["Link"] = "|cff0070dd|Hitem:161042::::::::27:252::18:1:4776:2:28:189:9:27:::|h[Gotaka's Wallopers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 161139,
-			["Level"] = 19,
+			["ID"] = 38672,
+			["Level"] = 28,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:161139::::::::16:252::11:1:3631:2:28:189:9:16:::|h[Spirit Twister's Band]|h|r",
+			["Link"] = "|cff0070dd|Hitem:38672::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Keleseth's Signet Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 161139,
-			["Level"] = 19,
+			["ID"] = 38671,
+			["Level"] = 28,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:161139::::::::17:252::11:1:3631:2:28:189:9:16:::|h[Spirit Twister's Band]|h|r",
+			["Link"] = "|cff0070dd|Hitem:38671::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Valanar's Signet Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 159763,
-			["Level"] = 22,
+			["ID"] = 161125,
+			["Level"] = 30,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159763::::::::16:252::11:2:3631:6700:2:28:189:9:16:::|h[Idol of Vol'jamba]|h|r",
+			["Link"] = "|cff0070dd|Hitem:161125::::::::24:252::18:1:4776:2:28:189:9:24:::|h[Kaja-fied Banana]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159763,
-			["Level"] = 22,
+			["ID"] = 161125,
+			["Level"] = 30,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159763::::::::17:252::11:2:3631:6700:2:28:189:9:16:::|h[Idol of Vol'jamba]|h|r",
+			["Link"] = "|cff0070dd|Hitem:161125::::::::25:252::18:1:4776:2:28:189:9:24:::|h[Kaja-fied Banana]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 39320,
-			["Level"] = 17,
-			["Link"] = "|cff0070dd|Hitem:39320::::::::13:252::14:1:6691:2:28:869:9:13:::|h[Sky Darkener's Shroud of Blood]|h|r",
+			["ID"] = 38664,
+			["Level"] = 28,
+			["Link"] = "|cff0070dd|Hitem:38664::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Sky Darkener's Shroud of the Unholy]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 159103,
-			["Level"] = 18,
-			["Link"] = "|cff1eff00|Hitem:159103::::::::15:252::11:1:4790:2:28:189:9:15:::|h[Dregada's Greatsword]|h|r",
+			["ID"] = 159109,
+			["Level"] = 30,
+			["Link"] = "|cff1eff00|Hitem:159109::::::::26:252::11:1:4793:2:28:189:9:26:::|h[Loa-Defender's Battleaxe]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,

@@ -1,0 +1,16 @@
+bind Q ACTIONBUTTON2
+bind E ACTIONBUTTON1
+bind BUTTON4 CLICK BT4Button62:LeftButton
+bind R ACTIONBUTTON4
+bind 1 NONE
+bind 2 CLICK BT4Button61:LeftButton
+bind 3 CLICK BT4Button64:LeftButton
+bind 4 CLICK BT4Button63:LeftButton
+bind 5 NONE
+bind 6 NONE
+bind = NONE
+bind F ACTIONBUTTON3
+bind C ACTIONBUTTON5
+bind [ PAWN_COMPARE_LEFT
+bind ] PAWN_COMPARE_RIGHT
+bind BUTTON5 ACTIONBUTTON6

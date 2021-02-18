@@ -31,8 +31,6 @@ end
 
 L = BigWigs:NewBossLocale("Artificer Xy'mox", "zhCN")
 if L then
-	L.stage2_yell = "我一直想玩玩这件圣物，都快想疯了！而你们的死，可以填补我多年的空虚。"
-	L.stage3_yell = "如此美妙的东西，如果没有杀伤力就太可惜了！"
 	L.tear = "撕裂" -- Short for Dimensional Tear
 	L.spirits = "灵魂" -- Short for Fleeting Spirits
 	L.seeds = "种" -- Short for Seeds of Extinction
@@ -162,4 +160,12 @@ if L then
 	L.deplina = "德普莉娜"
 	L.dragost = "德拉苟斯特"
 	L.kullan = "库兰"
+
+	--[[ Shriekwing -> Xy'mox ]]--
+	L.antiquarian = "阴险的古董收藏家"
+	L.conservator = "纳斯利亚管理员"
+	L.archivist = "纳斯利亚档案员"
+
+	--[[ Sludgefist -> Stone Legion Generals ]]--
+	L.goliath = "顽石军团巨怪"
 end

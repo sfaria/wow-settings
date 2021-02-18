@@ -3,20 +3,15 @@ KalielsTrackerDB = {
 	["char"] = {
 		["Fremdschämen - Draenor"] = {
 			["quests"] = {
+				["num"] = 5,
 				["cache"] = {
-					[47587] = {
-						["title"] = "Headhunter Jo",
+					[47257] = {
+						["state"] = "complete",
+						["title"] = "The Bones of Xibala",
 						["zone"] = "Zuldazar",
-						["level"] = 18,
-						["startMapID"] = 862,
+						["level"] = 29,
 						["isCalling"] = false,
-					},
-					[53476] = {
-						["title"] = "The Great Sea Scrolls",
-						["zone"] = "Treasure Map",
-						["level"] = 18,
-						["startMapID"] = 862,
-						["isCalling"] = false,
+						["startMapID"] = 1163,
 					},
 					[49810] = {
 						["title"] = "Monstrous Matchmaker",
@@ -33,16 +28,37 @@ KalielsTrackerDB = {
 						["startMapID"] = 1164,
 						["isCalling"] = false,
 					},
-					[49663] = {
-						["state"] = "complete",
-						["title"] = "False Prophecies",
-						["zone"] = "Zuldazar",
-						["level"] = 18,
-						["startMapID"] = 862,
+					[49901] = {
+						["title"] = "Atal'Dazar: Yazma the Fallen Priestess",
+						["zone"] = "Dungeon",
+						["level"] = 29,
 						["isCalling"] = false,
+						["startMapID"] = 1164,
+					},
+					[49940] = {
+						["state"] = "complete",
+						["title"] = "Sandscar Breach",
+						["zone"] = "Zuldazar",
+						["level"] = 29,
+						["isCalling"] = false,
+						["startMapID"] = 1164,
+					},
+					[48535] = {
+						["title"] = "Nazmir, the Forbidden Swamp",
+						["zone"] = "Nazmir",
+						["level"] = 29,
+						["isCalling"] = false,
+						["startMapID"] = 1165,
+					},
+					[52210] = {
+						["state"] = "complete",
+						["title"] = "Sending Out An SOS",
+						["zone"] = "Zuldazar",
+						["level"] = 29,
+						["isCalling"] = false,
+						["startMapID"] = 1164,
 					},
 				},
-				["num"] = 5,
 			},
 		},
 		["Spießer - Draenor"] = {
@@ -114,13 +130,6 @@ KalielsTrackerDB = {
 						["startMapID"] = 0,
 						["isCalling"] = false,
 					},
-					[61874] = {
-						["title"] = "Shadowlands: A Chilling Summons",
-						["zone"] = "Shadowlands Campaign",
-						["level"] = 50,
-						["startMapID"] = 864,
-						["isCalling"] = false,
-					},
 					[31853] = {
 						["title"] = "All Aboard!",
 						["zone"] = "Orgrimmar",
@@ -128,11 +137,32 @@ KalielsTrackerDB = {
 						["startMapID"] = 0,
 						["isCalling"] = false,
 					},
+					[50954] = {
+						["title"] = "Zandalar Forever!",
+						["zone"] = "Zuldazar",
+						["level"] = 51,
+						["isCalling"] = false,
+						["startMapID"] = 862,
+					},
 					[8867] = {
 						["title"] = "Lunar Fireworks",
 						["zone"] = "Lunar Festival",
 						["level"] = 52,
 						["startMapID"] = 85,
+						["isCalling"] = false,
+					},
+					[53354] = {
+						["title"] = "Echo of Gul'dan",
+						["zone"] = "Mag'har Orc",
+						["level"] = 52,
+						["startMapID"] = 17,
+						["isCalling"] = false,
+					},
+					[59907] = {
+						["title"] = "Mawsworn Menace",
+						["zone"] = "Shadowlands Campaign",
+						["level"] = 50,
+						["startMapID"] = 1648,
 						["isCalling"] = false,
 					},
 					[40832] = {
@@ -149,11 +179,25 @@ KalielsTrackerDB = {
 						["startMapID"] = 0,
 						["isCalling"] = false,
 					},
-					[51376] = {
-						["title"] = "Can't Teach on an Empty Stomach",
-						["zone"] = "Herbalism",
+					[51785] = {
+						["title"] = "Examining the Epitaphs",
+						["zone"] = "Horde War Campaign",
+						["level"] = 50,
+						["isCalling"] = false,
+						["startMapID"] = 896,
+					},
+					[51224] = {
+						["title"] = "Profit and Reconnaissance",
+						["zone"] = "Horde War Campaign",
 						["level"] = 50,
 						["startMapID"] = 896,
+						["isCalling"] = false,
+					},
+					[54135] = {
+						["title"] = "Romp in the Swamp",
+						["zone"] = "Assault",
+						["level"] = 50,
+						["startMapID"] = 1165,
 						["isCalling"] = false,
 					},
 					[26588] = {
@@ -171,13 +215,6 @@ KalielsTrackerDB = {
 						["startMapID"] = 0,
 						["isCalling"] = false,
 					},
-					[51224] = {
-						["title"] = "Profit and Reconnaissance",
-						["zone"] = "Horde War Campaign",
-						["level"] = 50,
-						["startMapID"] = 896,
-						["isCalling"] = false,
-					},
 					[53208] = {
 						["title"] = "To the Front",
 						["zone"] = "Warfronts",
@@ -185,19 +222,26 @@ KalielsTrackerDB = {
 						["startMapID"] = 1165,
 						["isCalling"] = false,
 					},
-					[50954] = {
-						["title"] = "Zandalar Forever!",
-						["zone"] = "Zuldazar",
-						["level"] = 51,
+					[51376] = {
+						["title"] = "Can't Teach on an Empty Stomach",
+						["zone"] = "Herbalism",
+						["level"] = 50,
+						["startMapID"] = 896,
 						["isCalling"] = false,
-						["startMapID"] = 862,
 					},
-					[51785] = {
-						["title"] = "Examining the Epitaphs",
+					[53852] = {
+						["title"] = "Azerite Denied",
 						["zone"] = "Horde War Campaign",
 						["level"] = 50,
+						["startMapID"] = 862,
 						["isCalling"] = false,
-						["startMapID"] = 896,
+					},
+					[59752] = {
+						["title"] = "A Fractured Blade",
+						["zone"] = "Shadowlands Campaign",
+						["level"] = 50,
+						["startMapID"] = 1648,
+						["isCalling"] = false,
 					},
 					[51786] = {
 						["title"] = "State of Unrest",
@@ -214,7 +258,7 @@ KalielsTrackerDB = {
 						["isCalling"] = false,
 					},
 				},
-				["num"] = 12,
+				["num"] = 16,
 			},
 		},
 	},

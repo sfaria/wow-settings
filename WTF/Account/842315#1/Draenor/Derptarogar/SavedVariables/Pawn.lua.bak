@@ -1,18 +1,18 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0413,
+	["LastVersion"] = 2.0414,
 	["LastPlayerFullName"] = "Derptarogar-Draenor",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 175313,
-			["Level"] = 59,
-			["Link"] = "|cff0070dd|Hitem:175313::::::::51:260::26:1:4813:2:9:50:28:191:::|h[Scorching Sands Mask]|h|r",
+			["ID"] = 160911,
+			["Level"] = 63,
+			["Link"] = "|cff0070dd|Hitem:160911::::::::52:260::11:1:4775:1:28:810:::|h[Cowl of the Champion]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 57,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::51:260::11:4:4932:4933:4935:1471:1:28:2122:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 63,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::52:260::11:4:4932:4933:4935:1477:1:28:2122:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 175400,
@@ -86,10 +86,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:163866::::::::51:260::30:3:4802:1474:4786:1:28:690:::|h[Honorbound Skullcleaver]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 155417,
-			["Level"] = 59,
+			["ID"] = 163866,
+			["Level"] = 60,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:155417::::::::51:260::11:1:4813:2:9:50:28:191:::|h[Keeper's Crescent]|h|r",
+			["Link"] = "|cffa335ee|Hitem:163866::::::::52:260::30:3:4802:1474:4786:1:28:690:::|h[Honorbound Skullcleaver]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

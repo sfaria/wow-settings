@@ -40,11 +40,6 @@ IceCoreDB = {
 					["updatedInverseExpand"] = true,
 					["classColor"] = false,
 				},
-				["ComboPointsBar"] = {
-					["updatedReverseInverse"] = true,
-					["myTagVersion"] = 3,
-					["updatedInverseExpand"] = true,
-				},
 				["ComboPoints"] = {
 					["gradient"] = true,
 				},
@@ -128,6 +123,11 @@ IceCoreDB = {
 				},
 				["MaelstromCount"] = {
 				},
+				["ComboPointsBar"] = {
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+				},
 				["PlayerAbsorb"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
@@ -137,12 +137,14 @@ IceCoreDB = {
 			["barTexture"] = "CleanCurves",
 			["alphaTargetbg"] = 0,
 			["alphaNotFullbg"] = 0,
+			["bShouldUseDogTags"] = false,
 			["updatedOocNotFull"] = true,
 			["alphaTarget"] = 0,
 			["alphaNotFull"] = 0,
 			["backgroundToggle"] = true,
 			["TextDecoration"] = "Outline",
 			["alphaooc"] = 0,
+			["enable"] = false,
 			["alphaoocbg"] = 0,
 			["colors"] = {
 				["ScaledManaColor"] = {

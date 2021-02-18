@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0413,
+	["LastVersion"] = 2.0414,
 	["LastPlayerFullName"] = "Derptarogar-Draenor",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -11,8 +11,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 63,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::52:260::11:4:4932:4933:4935:1477:1:28:2122:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 64,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::52:260::11:4:4932:4933:4935:1478:1:28:2122:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 175400,

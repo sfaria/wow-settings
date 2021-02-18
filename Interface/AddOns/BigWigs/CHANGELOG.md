@@ -1,16 +1,23 @@
 # BigWigs
 
-## [v213](https://github.com/BigWigsMods/BigWigs/tree/v213) (2021-02-12)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v212...v213) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
+## [v215](https://github.com/BigWigsMods/BigWigs/tree/v215) (2021-02-17)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v214...v215) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
 
 - bump version  
-- Plugins/Bars: Add transparency option to nameplate bars, restrict their max width when using auto mode, make UI changes apply to them instantly, tweak defaults.  
-- Plugins/Bars: Remove more code related to emphasizing nameplate bars and remove bar styling from nameplate bars, forcing the default (more transparent) style. We might need to add a separate option for this, as we can't guarantee the user's chosen bar style would be appropriate for a nameplate bar.  
-- Core/BossPrototype: Fix error in :NewStackMessage when stack amount is nil  
-- Update zhTW (#998)  
-- CastleNathria/Denathrius: Make Wracking Pain a stack message when 2 or more, throttle Scorn and Carnage stacks.  
-- Core/BossPrototype: Make the option to disable class colors in messages actually work  
-- CastleNathria/StoneLegionGenerals: According to hotfix notes, 4 players with Heart Rend should be Mythic only  
-- CastleNathria: Update option files  
-- Update zhCN (#997)  
-- Update deDE (#996)  
+- Update option files  
+- Common locale: Add plural "Beams"  
+- Plugins/Statistics: Update comments  
+- CastleNathria/SunKingsSalvation: Fix some Cloak of Flames bars not being shortened  
+- CastleNathria/Shriekwing: Stop showing Echoing Screech for Normal and LFR  
+- CastleNathria/TheCouncilofBlood: Update Dancing Fever timer when Danse Macabre happens  
+- CastleNathria/InervaDarkvein: Move some casts to use _START in case they are interrupted by reaching a container swap  
+- CastleNathria/TheCouncilofBlood: Update some timers to use _START in case they get interrupted from Danse Macabre  
+- CastleNathria/StoneLegionGenerals: Update timers  
+- CastleNathria/SunKingsSalvation: Check for the Unleashed Pyroclasm cast being interrupted to avoid incorrect warnings when notifying players about the Cloak of Flames on _REMOVED  
+- CastleNathria/Denathrius: Stop the Through the Mirror infobox from gaining more players in the mirror phase and move the enabling of the infobox to the start of his channel  
+- Update esMX (#1005)  
+- Update ptBR (#1004)  
+- CastleNathria/Denathrius: Fix bad math when comparing ravageCount  
+- CastleNathria/Xymox: Encounter Event spell is now implemented for stage changes  
+- workflow: Parse from the toc  
+- parser: Handle starting from a toc file  
