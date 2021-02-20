@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:180030::::::::30:252::11:1:4813:2:28:292:9:30:::|h[Bartered Vrykul Warhelm]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 38662,
-			["Level"] = 28,
-			["Link"] = "|cff0070dd|Hitem:38662::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Bladed Ebon Amulet]|h|r",
+			["ID"] = 179383,
+			["Level"] = 37,
+			["Link"] = "|cff1eff00|Hitem:179383::::::::33:252::11:1:3631:2:28:190:9:33:::|h[Royal Zandalari Pendant]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 38663,
@@ -26,63 +26,63 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:175280::::::::29:252::25:1:4813:2:28:189:9:29:::|h[Rastari Breastplate]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 38668,
-			["Level"] = 28,
-			["Link"] = "|cff0070dd|Hitem:38668::::::::22:252::14:1:6691:2:28:869:9:22:::|h[The Plaguebringer's Girdle]|h|r",
+			["ID"] = 173584,
+			["Level"] = 44,
+			["Link"] = "|cff1eff00|Hitem:173584::::::::38:252::11:1:6416:2:9:38:28:189:::|h[Heart-Lesion Girdle]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 158399,
-			["Level"] = 30,
-			["Link"] = "|cff1eff00|Hitem:158399::::::::25:252::11:1:4790:2:28:189:9:25:::|h[Rastari Wargreaves]|h|r",
+			["ID"] = 158313,
+			["Level"] = 36,
+			["Link"] = "|cff0070dd|Hitem:158313::::::::30:252::18:2:4776:6513:2:28:1224:9:30:::|h[Legplates of Beaten Gold]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 155242,
-			["Level"] = 31,
-			["Link"] = "|cff1eff00|Hitem:155242::::::::27:252::11:1:4790:2:28:189:9:27:::|h[Rastari Warboots]|h|r",
+			["ID"] = 161040,
+			["Level"] = 44,
+			["Link"] = "|cff0070dd|Hitem:161040::::::::38:252::19:1:4776:2:28:189:9:38:::|h[Arid Dune Stompers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 158445,
-			["Level"] = 20,
-			["Link"] = "|cff1eff00|Hitem:158445::::::::17:252::11:1:3631:2:28:189:9:17:::|h[Rastari Armguards]|h|r",
+			["ID"] = 155341,
+			["Level"] = 38,
+			["Link"] = "|cff1eff00|Hitem:155341::::::::34:252::11:1:3631:2:28:190:9:34:::|h[Nazmani Warplate Vambraces]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 161042,
-			["Level"] = 32,
-			["Link"] = "|cff0070dd|Hitem:161042::::::::27:252::18:1:4776:2:28:189:9:27:::|h[Gotaka's Wallopers]|h|r",
+			["ID"] = 159154,
+			["Level"] = 38,
+			["Link"] = "|cff1eff00|Hitem:159154::::::::33:252::11:1:4793:2:28:189:9:33:::|h[Rastari Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 38672,
-			["Level"] = 28,
+			["ID"] = 173668,
+			["Level"] = 44,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:38672::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Keleseth's Signet Ring]|h|r",
+			["Link"] = "|cff1eff00|Hitem:173668::::::::38:252::11:1:6416:2:9:38:28:189:::|h[Dingy Golden Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 38671,
-			["Level"] = 28,
+			["ID"] = 173668,
+			["Level"] = 44,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:38671::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Valanar's Signet Ring]|h|r",
+			["Link"] = "|cff1eff00|Hitem:173668::::::::39:252::11:1:6416:2:9:38:28:189:::|h[Dingy Golden Band]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 161125,
-			["Level"] = 30,
+			["ID"] = 173666,
+			["Level"] = 42,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:161125::::::::24:252::18:1:4776:2:28:189:9:24:::|h[Kaja-fied Banana]|h|r",
+			["Link"] = "|cff1eff00|Hitem:173666::::::::36:252::11:1:6416:2:9:36:28:189:::|h[Lacquered Carving]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 161125,
-			["Level"] = 30,
+			["ID"] = 173666,
+			["Level"] = 42,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:161125::::::::25:252::18:1:4776:2:28:189:9:24:::|h[Kaja-fied Banana]|h|r",
+			["Link"] = "|cff1eff00|Hitem:173666::::::::37:252::11:1:6416:2:9:36:28:189:::|h[Lacquered Carving]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 38664,
-			["Level"] = 28,
-			["Link"] = "|cff0070dd|Hitem:38664::::::::22:252::14:1:6691:2:28:869:9:22:::|h[Sky Darkener's Shroud of the Unholy]|h|r",
+			["ID"] = 173671,
+			["Level"] = 44,
+			["Link"] = "|cff1eff00|Hitem:173671::::::::38:252::11:1:6416:2:9:38:28:189:::|h[Travel-Worn Shawl]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 159109,
-			["Level"] = 30,
-			["Link"] = "|cff1eff00|Hitem:159109::::::::26:252::11:1:4793:2:28:189:9:26:::|h[Loa-Defender's Battleaxe]|h|r",
+			["ID"] = 159557,
+			["Level"] = 45,
+			["Link"] = "|cff1eff00|Hitem:159557::::::::39:252:::2:6655:1691:2:28:189:9:42:::|h[Zem'lan Headsmasher of the Fireflash]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,
