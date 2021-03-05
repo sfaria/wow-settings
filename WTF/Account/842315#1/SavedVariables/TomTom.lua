@@ -2,6 +2,7 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Fremdschämen - Draenor"] = "Default",
+		["Derptarogar - Draenor"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -14,8 +15,8 @@ TomTomDB = {
 					"TOP", -- [1]
 					nil, -- [2]
 					"TOP", -- [3]
-					24.16655540466309, -- [4]
-					-8.166712760925293, -- [5]
+					290.8322143554688, -- [4]
+					-18.99998092651367, -- [5]
 				},
 			},
 			["block"] = {
@@ -35,6 +36,7 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Fremdschämen - Draenor"] = "Fremdschämen - Draenor",
+		["Derptarogar - Draenor"] = "Derptarogar - Draenor",
 	},
 	["profiles"] = {
 		["Fremdschämen - Draenor"] = {
@@ -53,18 +55,10 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/Block",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -84,24 +78,18 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/Block",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
 					["world"] = true,
 				},
 			},
+		},
+		["Derptarogar - Draenor"] = {
 		},
 	},
 }

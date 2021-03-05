@@ -1,13 +1,13 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0414,
+	["LastVersion"] = 2.0415,
 	["LastPlayerFullName"] = "Fremdschämen-Draenor",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 180030,
-			["Level"] = 37,
-			["Link"] = "|cff0070dd|Hitem:180030::::::::30:252::11:1:4813:2:28:292:9:30:::|h[Bartered Vrykul Warhelm]|h|r",
+			["ID"] = 175306,
+			["Level"] = 47,
+			["Link"] = "|cff0070dd|Hitem:175306::::::::40:252::25:1:4813:2:28:190:9:40:::|h[Nazmani Warplate Faceguard]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 179383,
@@ -26,63 +26,63 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:175280::::::::29:252::25:1:4813:2:28:189:9:29:::|h[Rastari Breastplate]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 38668,
-			["Level"] = 28,
-			["Link"] = "|cff0070dd|Hitem:38668::::::::22:252::14:1:6691:2:28:869:9:22:::|h[The Plaguebringer's Girdle]|h|r",
+			["ID"] = 173584,
+			["Level"] = 55,
+			["Link"] = "|cff1eff00|Hitem:173584::::::::48:252::11:1:6416:2:9:48:28:190:::|h[Heart-Lesion Girdle]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 158313,
-			["Level"] = 36,
-			["Link"] = "|cff0070dd|Hitem:158313::::::::30:252::18:2:4776:6513:2:28:1224:9:30:::|h[Legplates of Beaten Gold]|h|r",
+			["ID"] = 158955,
+			["Level"] = 49,
+			["Link"] = "|cff1eff00|Hitem:158955::::::::43:252::11:1:4790:2:28:190:9:43:::|h[Nazmani Warplate Legguards]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 158419,
-			["Level"] = 36,
-			["Link"] = "|cff1eff00|Hitem:158419::::::::32:252::11:1:4790:2:28:189:9:32:::|h[Rastari Treads]|h|r",
+			["ID"] = 159013,
+			["Level"] = 50,
+			["Link"] = "|cff1eff00|Hitem:159013::::::::44:252::11:1:4793:2:28:190:9:44:::|h[Nazmani Warplate Stompers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 155341,
-			["Level"] = 38,
-			["Link"] = "|cff1eff00|Hitem:155341::::::::34:252::11:1:3631:2:28:190:9:34:::|h[Nazmani Warplate Vambraces]|h|r",
+			["ID"] = 161110,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:161110::::::::45:252::19:1:4776:2:28:190:9:45:::|h[Crusty Chitin Armguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 159154,
-			["Level"] = 38,
-			["Link"] = "|cff1eff00|Hitem:159154::::::::33:252::11:1:4793:2:28:189:9:33:::|h[Rastari Gloves]|h|r",
+			["ID"] = 161111,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:161111::::::::44:252::19:1:4776:2:28:190:9:44:::|h[Marshqueen's Crushers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 159942,
-			["Level"] = 37,
+			["ID"] = 155382,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:159942::::::::33:252::11:1:3631:2:28:189:9:33:::|h[Zul Adherent's Band]|h|r",
+			["Link"] = "|cff1eff00|Hitem:155382::::::::45:252::11:1:4793:2:9:45:28:190:::|h[Spare Stabilizer Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 159942,
-			["Level"] = 37,
+			["ID"] = 155382,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:159942::::::::34:252::11:1:3631:2:28:189:9:33:::|h[Zul Adherent's Band]|h|r",
+			["Link"] = "|cff1eff00|Hitem:155382::::::::46:252::11:1:4793:2:9:45:28:190:::|h[Spare Stabilizer Band]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 161125,
-			["Level"] = 30,
+			["ID"] = 161115,
+			["Level"] = 53,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:161125::::::::24:252::18:1:4776:2:28:189:9:24:::|h[Kaja-fied Banana]|h|r",
+			["Link"] = "|cff0070dd|Hitem:161115::::::::47:252::19:1:4776:2:28:190:9:47:::|h[Cursed Captain's Charm]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 161125,
-			["Level"] = 30,
+			["ID"] = 161115,
+			["Level"] = 53,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:161125::::::::25:252::18:1:4776:2:28:189:9:24:::|h[Kaja-fied Banana]|h|r",
+			["Link"] = "|cff0070dd|Hitem:161115::::::::48:252::19:1:4776:2:28:190:9:47:::|h[Cursed Captain's Charm]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 158375,
-			["Level"] = 36,
-			["Link"] = "|cff0070dd|Hitem:158375::::::::30:252::18:1:4776:2:28:1224:9:30:::|h[Drape of the Loyal Vassal]|h|r",
+			["ID"] = 155383,
+			["Level"] = 50,
+			["Link"] = "|cff1eff00|Hitem:155383::::::::44:252::11:1:4790:2:28:190:9:44:::|h[Bloody Warmother's Greatcloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 159109,
-			["Level"] = 30,
-			["Link"] = "|cff1eff00|Hitem:159109::::::::26:252::11:1:4793:2:28:189:9:26:::|h[Loa-Defender's Battleaxe]|h|r",
+			["ID"] = 173539,
+			["Level"] = 55,
+			["Link"] = "|cff1eff00|Hitem:173539::::::::48:252::11:1:6416:2:9:48:28:190:::|h[Unholy Runeblade]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,

@@ -1,13 +1,13 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0414,
+	["LastVersion"] = 2.0415,
 	["LastPlayerFullName"] = "Fremdschämen-Draenor",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 180030,
-			["Level"] = 37,
-			["Link"] = "|cff0070dd|Hitem:180030::::::::30:252::11:1:4813:2:28:292:9:30:::|h[Bartered Vrykul Warhelm]|h|r",
+			["ID"] = 175306,
+			["Level"] = 47,
+			["Link"] = "|cff0070dd|Hitem:175306::::::::40:252::25:1:4813:2:28:190:9:40:::|h[Nazmani Warplate Faceguard]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 179383,
@@ -27,62 +27,62 @@ PawnOptions = {
 		}, -- [5]
 		{
 			["ID"] = 173584,
-			["Level"] = 44,
-			["Link"] = "|cff1eff00|Hitem:173584::::::::38:252::11:1:6416:2:9:38:28:189:::|h[Heart-Lesion Girdle]|h|r",
+			["Level"] = 55,
+			["Link"] = "|cff1eff00|Hitem:173584::::::::48:252::11:1:6416:2:9:48:28:190:::|h[Heart-Lesion Girdle]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 158313,
-			["Level"] = 36,
-			["Link"] = "|cff0070dd|Hitem:158313::::::::30:252::18:2:4776:6513:2:28:1224:9:30:::|h[Legplates of Beaten Gold]|h|r",
+			["ID"] = 158955,
+			["Level"] = 49,
+			["Link"] = "|cff1eff00|Hitem:158955::::::::43:252::11:1:4790:2:28:190:9:43:::|h[Nazmani Warplate Legguards]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 161040,
-			["Level"] = 44,
-			["Link"] = "|cff0070dd|Hitem:161040::::::::38:252::19:1:4776:2:28:189:9:38:::|h[Arid Dune Stompers]|h|r",
+			["ID"] = 159013,
+			["Level"] = 50,
+			["Link"] = "|cff1eff00|Hitem:159013::::::::44:252::11:1:4793:2:28:190:9:44:::|h[Nazmani Warplate Stompers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 155341,
-			["Level"] = 38,
-			["Link"] = "|cff1eff00|Hitem:155341::::::::34:252::11:1:3631:2:28:190:9:34:::|h[Nazmani Warplate Vambraces]|h|r",
+			["ID"] = 161110,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:161110::::::::45:252::19:1:4776:2:28:190:9:45:::|h[Crusty Chitin Armguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 159154,
-			["Level"] = 38,
-			["Link"] = "|cff1eff00|Hitem:159154::::::::33:252::11:1:4793:2:28:189:9:33:::|h[Rastari Gloves]|h|r",
+			["ID"] = 161111,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:161111::::::::44:252::19:1:4776:2:28:190:9:44:::|h[Marshqueen's Crushers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 173668,
-			["Level"] = 44,
+			["ID"] = 155382,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:173668::::::::38:252::11:1:6416:2:9:38:28:189:::|h[Dingy Golden Band]|h|r",
+			["Link"] = "|cff1eff00|Hitem:155382::::::::45:252::11:1:4793:2:9:45:28:190:::|h[Spare Stabilizer Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 173668,
-			["Level"] = 44,
+			["ID"] = 155382,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:173668::::::::39:252::11:1:6416:2:9:38:28:189:::|h[Dingy Golden Band]|h|r",
+			["Link"] = "|cff1eff00|Hitem:155382::::::::46:252::11:1:4793:2:9:45:28:190:::|h[Spare Stabilizer Band]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 173666,
-			["Level"] = 42,
+			["ID"] = 161115,
+			["Level"] = 53,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:173666::::::::36:252::11:1:6416:2:9:36:28:189:::|h[Lacquered Carving]|h|r",
+			["Link"] = "|cff0070dd|Hitem:161115::::::::47:252::19:1:4776:2:28:190:9:47:::|h[Cursed Captain's Charm]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 173666,
-			["Level"] = 42,
+			["ID"] = 161115,
+			["Level"] = 53,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:173666::::::::37:252::11:1:6416:2:9:36:28:189:::|h[Lacquered Carving]|h|r",
+			["Link"] = "|cff0070dd|Hitem:161115::::::::48:252::19:1:4776:2:28:190:9:47:::|h[Cursed Captain's Charm]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 173671,
-			["Level"] = 44,
-			["Link"] = "|cff1eff00|Hitem:173671::::::::38:252::11:1:6416:2:9:38:28:189:::|h[Travel-Worn Shawl]|h|r",
+			["ID"] = 155383,
+			["Level"] = 50,
+			["Link"] = "|cff1eff00|Hitem:155383::::::::44:252::11:1:4790:2:28:190:9:44:::|h[Bloody Warmother's Greatcloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 159557,
-			["Level"] = 45,
-			["Link"] = "|cff1eff00|Hitem:159557::::::::39:252:::2:6655:1691:2:28:189:9:42:::|h[Zem'lan Headsmasher of the Fireflash]|h|r",
+			["ID"] = 173539,
+			["Level"] = 55,
+			["Link"] = "|cff1eff00|Hitem:173539::::::::48:252::11:1:6416:2:9:48:28:190:::|h[Unholy Runeblade]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,

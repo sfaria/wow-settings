@@ -1,10 +1,11 @@
 bind Q ACTIONBUTTON2
 bind E ACTIONBUTTON1
+bind X CLICK BT4Button66:LeftButton
 bind BUTTON4 CLICK BT4Button62:LeftButton
 bind R ACTIONBUTTON4
 bind 1 CLICK BT4Button64:LeftButton
 bind 2 CLICK BT4Button61:LeftButton
-bind 3 ACTIONBUTTON7
+bind 3 CLICK BT4Button65:LeftButton
 bind 4 CLICK BT4Button63:LeftButton
 bind 5 NONE
 bind 6 NONE

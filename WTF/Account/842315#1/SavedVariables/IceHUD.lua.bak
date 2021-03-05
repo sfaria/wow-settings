@@ -4,13 +4,13 @@ IceCoreDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["global"] = {
+		["lastRunVersion"] = 20201205224907,
+	},
 	["profileKeys"] = {
 		["Fremdschämen - Draenor"] = "Default",
 		["Spießer - Draenor"] = "Default",
 		["Derptarogar - Draenor"] = "Default",
-	},
-	["global"] = {
-		["lastRunVersion"] = 20201205224907,
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -43,7 +43,8 @@ IceCoreDB = {
 				["ComboPoints"] = {
 					["gradient"] = true,
 				},
-				["PlayerAbsorb"] = {
+				["PlayerMana"] = {
+					["lockUpperTextAlpha"] = false,
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
@@ -127,8 +128,7 @@ IceCoreDB = {
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["PlayerMana"] = {
-					["lockUpperTextAlpha"] = false,
+				["PlayerAbsorb"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
@@ -166,8 +166,8 @@ IceCoreDB = {
 				},
 				["TargetInfo"] = {
 					["debuffSizeFixup"] = true,
-					["myTagVersion"] = 3,
 					["updateAurasIntoTable"] = true,
+					["myTagVersion"] = 3,
 				},
 				["TargetCast"] = {
 					["updatedReverseInverse"] = true,
@@ -194,12 +194,12 @@ IceCoreDB = {
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["PlayerAbsorb"] = {
+				["PlayerMana"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["TargetAbsorb"] = {
+				["PetMana"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
@@ -214,12 +214,12 @@ IceCoreDB = {
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["PetMana"] = {
+				["TargetAbsorb"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["PlayerMana"] = {
+				["PlayerAbsorb"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,

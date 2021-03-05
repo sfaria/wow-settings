@@ -4,21 +4,21 @@ IceCoreDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["global"] = {
-		["lastRunVersion"] = 20201205224907,
-	},
 	["profileKeys"] = {
 		["Fremdschämen - Draenor"] = "Default",
 		["Spießer - Draenor"] = "Default",
 		["Derptarogar - Draenor"] = "Default",
 	},
+	["global"] = {
+		["lastRunVersion"] = 20201205224907,
+	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
 				["RollTheBones"] = {
+					["lockUpperTextAlpha"] = false,
 					["enabled"] = true,
 					["updatedReverseInverse"] = true,
-					["lockUpperTextAlpha"] = false,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
@@ -43,16 +43,15 @@ IceCoreDB = {
 				["ComboPoints"] = {
 					["gradient"] = true,
 				},
-				["PlayerMana"] = {
-					["lockUpperTextAlpha"] = false,
+				["PlayerAbsorb"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
 				["SliceAndDice"] = {
 					["enabled"] = true,
-					["myTagVersion"] = 3,
 					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
 				["TargetMana"] = {
@@ -88,9 +87,9 @@ IceCoreDB = {
 					["enabled"] = false,
 				},
 				["TargetHealth"] = {
+					["enabled"] = false,
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
-					["enabled"] = false,
 					["updatedInverseExpand"] = true,
 				},
 				["FocusAbsorb"] = {
@@ -128,7 +127,8 @@ IceCoreDB = {
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["PlayerAbsorb"] = {
+				["PlayerMana"] = {
+					["lockUpperTextAlpha"] = false,
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
@@ -144,7 +144,6 @@ IceCoreDB = {
 			["backgroundToggle"] = true,
 			["TextDecoration"] = "Outline",
 			["alphaooc"] = 0,
-			["enable"] = false,
 			["alphaoocbg"] = 0,
 			["colors"] = {
 				["ScaledManaColor"] = {
@@ -159,20 +158,10 @@ IceCoreDB = {
 		},
 		["Derptarogar - Draenor"] = {
 			["modules"] = {
-				["PlayerAlternatePower"] = {
-					["updatedReverseInverse"] = true,
-					["myTagVersion"] = 3,
-					["updatedInverseExpand"] = true,
-				},
-				["TargetInfo"] = {
-					["debuffSizeFixup"] = true,
-					["updateAurasIntoTable"] = true,
-					["myTagVersion"] = 3,
-				},
 				["TargetCast"] = {
-					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
 				},
 				["PetHealth"] = {
 					["updatedReverseInverse"] = true,
@@ -184,22 +173,117 @@ IceCoreDB = {
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
+				["PlayerAbsorb"] = {
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+				},
+				["MyCustomBar1"] = {
+					["shouldAnimate"] = false,
+					["lockUpperTextAlpha"] = true,
+					["lockLowerTextAlpha"] = false,
+					["barVisible"] = {
+						["bg"] = true,
+						["bar"] = true,
+					},
+					["auraIconYOffset"] = 0,
+					["displayWhenTargeting"] = false,
+					["hideAnimationSettings"] = true,
+					["updatedInverseExpand"] = true,
+					["markers"] = {
+					},
+					["desiredLerpTime"] = 0,
+					["offset"] = 8,
+					["updatedReverseInverse"] = true,
+					["minCount"] = 0,
+					["customUnit"] = "player",
+					["usesDogTagStrings"] = true,
+					["scaleManaColor"] = true,
+					["barColor"] = {
+						["a"] = 1,
+						["b"] = 0,
+						["g"] = 0,
+						["r"] = 1,
+					},
+					["barHorizontalOffset"] = 0,
+					["rotateBar"] = false,
+					["upperTextColor"] = {
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
+					},
+					["myUnit"] = "player",
+					["reverse"] = false,
+					["lowerTextColor"] = {
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
+					},
+					["exactMatch"] = false,
+					["auraIconScale"] = 1,
+					["customBarType"] = "Bar",
+					["upperText"] = "",
+					["auraIconXOffset"] = 40,
+					["textVerticalGap"] = 0,
+					["buffTimerDisplay"] = "minutes",
+					["forceJustifyText"] = "NONE",
+					["maxDuration"] = 0,
+					["displayAuraIcon"] = false,
+					["displayWhenEmpty"] = false,
+					["lowThresholdFlash"] = true,
+					["trackOnlyMine"] = true,
+					["buffOrDebuff"] = "buff",
+					["textVerticalOffset"] = -1,
+					["buffToTrack"] = "",
+					["myTagVersion"] = 3,
+					["lowerTextVisible"] = false,
+					["lockLowerFontAlpha"] = false,
+					["barVerticalOffset"] = 0,
+					["scaleHealthColor"] = true,
+					["side"] = "RIGHT",
+					["bAllowExpand"] = true,
+					["lowerText"] = "",
+					["textHorizontalOffset"] = 0,
+					["shouldUseOverride"] = false,
+					["widthModifier"] = 0,
+					["scale"] = 1,
+					["lowThreshold"] = 0,
+					["inverse"] = "NORMAL",
+					["lowThresholdColor"] = false,
+					["enabled"] = true,
+					["barFontSize"] = 12,
+					["alwaysFullAlpha"] = false,
+					["textVisible"] = {
+						["lower"] = true,
+						["upper"] = true,
+					},
+				},
 				["TargetMana"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
+				["PlayerAlternatePower"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["TargetInfo"] = {
+					["myTagVersion"] = 3,
+					["debuffSizeFixup"] = true,
+					["updateAurasIntoTable"] = true,
+				},
+				["TargetAbsorb"] = {
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+				},
 				["CastBar"] = {
-					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
-				},
-				["PlayerMana"] = {
 					["updatedReverseInverse"] = true,
-					["myTagVersion"] = 3,
-					["updatedInverseExpand"] = true,
 				},
-				["PetMana"] = {
+				["TargetHealth"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
@@ -209,17 +293,12 @@ IceCoreDB = {
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["TargetHealth"] = {
+				["PetMana"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,
 				},
-				["TargetAbsorb"] = {
-					["updatedReverseInverse"] = true,
-					["myTagVersion"] = 3,
-					["updatedInverseExpand"] = true,
-				},
-				["PlayerAbsorb"] = {
+				["PlayerMana"] = {
 					["updatedReverseInverse"] = true,
 					["myTagVersion"] = 3,
 					["updatedInverseExpand"] = true,

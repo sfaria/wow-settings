@@ -2,19 +2,25 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Fremdschämen - Draenor"] = "Default",
+		["Derptarogar - Draenor"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["poi"] = {
+				["setClosest"] = true,
+			},
 			["arrow"] = {
+				["lock"] = true,
 				["position"] = {
 					"TOP", -- [1]
 					nil, -- [2]
 					"TOP", -- [3]
-					15.00003910064697, -- [4]
-					-94.83344268798828, -- [5]
+					290.8322143554688, -- [4]
+					-18.99998092651367, -- [5]
 				},
 			},
 			["block"] = {
+				["enable"] = false,
 				["position"] = {
 					"TOP", -- [1]
 					nil, -- [2]
@@ -30,6 +36,7 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Fremdschämen - Draenor"] = "Fremdschämen - Draenor",
+		["Derptarogar - Draenor"] = "Derptarogar - Draenor",
 	},
 	["profiles"] = {
 		["Fremdschämen - Draenor"] = {
@@ -48,18 +55,10 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/Block",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -79,24 +78,18 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/Block",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
 					["world"] = true,
 				},
 			},
+		},
+		["Derptarogar - Draenor"] = {
 		},
 	},
 }
