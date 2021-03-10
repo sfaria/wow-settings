@@ -1,23 +1,23 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0415,
+	["LastVersion"] = 2.0416,
 	["LastPlayerFullName"] = "Derptarogar-Draenor",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 160911,
-			["Level"] = 63,
-			["Link"] = "|cff0070dd|Hitem:160911::::::::52:260::11:1:4775:1:28:810:::|h[Cowl of the Champion]|h|r",
+			["ID"] = 173331,
+			["Level"] = 96,
+			["Link"] = "|cff1eff00|Hitem:173331::::::::54:260::11:1:6707:2:28:1319:9:52:::|h[Courageous Aspirant's Helm]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 173797,
-			["Level"] = 98,
-			["Link"] = "|cff0070dd|Hitem:173797::::::::53:260::11:1:6706:2:28:1315:9:51:::|h[Larion-Tooth Necklace]|h|r",
+			["ID"] = 175739,
+			["Level"] = 102,
+			["Link"] = "|cff1eff00|Hitem:175739::::::::56:260::11:1:6707:2:28:1325:9:53:::|h[Reclaimed Maldraxxi Choker]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 175400,
-			["Level"] = 59,
-			["Link"] = "|cff0070dd|Hitem:175400::::::::51:260::26:1:4813:2:9:50:28:467:::|h[Honorbound Outrider's Mantle]|h|r",
+			["ID"] = 173336,
+			["Level"] = 110,
+			["Link"] = "|cff0070dd|Hitem:173336::::::::55:260::11:1:6706:2:28:1324:9:53:::|h[Waylight Epaulets]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -26,29 +26,29 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:173320::::::::53:260::11:1:6706:2:28:1316:9:51:::|h[Waylight Tunic]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 159986,
-			["Level"] = 58,
-			["Link"] = "|cff1eff00|Hitem:159986::::::::51:260::11:1:4790:2:9:49:28:191:::|h[Scorching Sands Girdle]|h|r",
+			["ID"] = 175473,
+			["Level"] = 108,
+			["Link"] = "|cff1eff00|Hitem:175473::::::::56:260::11:1:6707:2:28:1326:9:54:::|h[Deceitful Agent's Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 175626,
-			["Level"] = 90,
-			["Link"] = "|cff1eff00|Hitem:175626::::::::53:260::11:1:6707:2:28:1315:9:51:::|h[Courageous Aspirant's Breeches]|h|r",
+			["ID"] = 175465,
+			["Level"] = 108,
+			["Link"] = "|cff1eff00|Hitem:175465::::::::56:260::11:1:6707:2:28:1326:9:54:::|h[Deceitful Agent's Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 173324,
-			["Level"] = 90,
-			["Link"] = "|cff1eff00|Hitem:173324::::::::53:260::11:1:6707:2:28:1317:9:51:::|h[Boots of Inner Calm]|h|r",
+			["ID"] = 175615,
+			["Level"] = 96,
+			["Link"] = "|cff1eff00|Hitem:175615::::::::55:260::11:1:6707:2:28:1323:9:52:::|h[Courageous Aspirant's Boots]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 160012,
-			["Level"] = 58,
-			["Link"] = "|cff1eff00|Hitem:160012::::::::51:260::11:1:4790:2:9:50:28:191:::|h[Scorching Sands Armguards]|h|r",
+			["ID"] = 173348,
+			["Level"] = 96,
+			["Link"] = "|cff1eff00|Hitem:173348::::::::55:260::11:1:6707:2:28:1321:9:52:::|h[Gluttonous Wristwraps]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 173325,
-			["Level"] = 90,
-			["Link"] = "|cff1eff00|Hitem:173325::::::::53:260::11:1:6707:2:28:1316:9:51:::|h[Sparring Trainer's Grips]|h|r",
+			["ID"] = 175616,
+			["Level"] = 104,
+			["Link"] = "|cff0070dd|Hitem:175616::::::::54:260::11:2:6707:6901:2:28:1320:9:52:::|h[Courageous Aspirant's Gloves]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 173344,
@@ -63,33 +63,33 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:173344::::::::53:260::11:1:6706:2:9:51:28:1316:::|h[Band of Chronicled Deeds]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 173349,
-			["Level"] = 98,
+			["ID"] = 175718,
+			["Level"] = 102,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:173349::::::::53:260::11:1:6706:2:28:1318:9:51:::|h[Misfiring Centurion Controller]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175718::::::::55:260::11:1:6707:2:28:1324:9:53:::|h[Ascended Defender's Crest]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 173349,
-			["Level"] = 98,
+			["ID"] = 175718,
+			["Level"] = 102,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:173349::::::::53:260::11:1:6706:2:9:51:28:1318:::|h[Misfiring Centurion Controller]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175718::::::::55:260::11:1:6707:2:9:53:28:1324:::|h[Ascended Defender's Crest]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 155457,
-			["Level"] = 58,
-			["Link"] = "|cff1eff00|Hitem:155457::::::::51:260::11:1:4790:2:9:50:28:191:::|h[Devoted Defender's Cloak]|h|r",
+			["ID"] = 182561,
+			["Level"] = 110,
+			["Link"] = "|cff0070dd|Hitem:182561::::::::55:260::11:2:6706:6652:2:28:1324:9:53:::|h[Fallen Disciple's Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 179485,
-			["Level"] = 98,
+			["ID"] = 180819,
+			["Level"] = 116,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:179485::::::::53:260::11:2:6706:6652:2:28:1316:9:51:::|h[Fang of Nemaeus]|h|r",
+			["Link"] = "|cff0070dd|Hitem:180819::::::::56:260::11:2:6707:6901:2:28:1326:9:54:::|h[Bonefused Crusher]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 179486,
-			["Level"] = 98,
+			["ID"] = 180819,
+			["Level"] = 116,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:179486::::::::53:260::11:2:6706:6652:2:28:1316:9:51:::|h[Sigilback's Smashshell]|h|r",
+			["Link"] = "|cff0070dd|Hitem:180819::::::::56:260::11:2:6707:6901:2:9:54:28:1326:::|h[Bonefused Crusher]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

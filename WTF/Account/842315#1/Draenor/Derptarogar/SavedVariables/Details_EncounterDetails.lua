@@ -196,13 +196,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yazma",
 		},
-		[251187] = {
-			["school"] = 1,
+		[250368] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Toxic Saurid",
+			["source"] = "Vol'kaal",
 		},
 		[259574] = {
 			["school"] = 8,
@@ -324,12 +323,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[250368] = {
-			["school"] = 8,
+		[251187] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "Toxic Saurid",
 		},
 		[255371] = {
 			["school"] = 32,

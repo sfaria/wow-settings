@@ -42,10 +42,10 @@ ZPerlConfigNew = {
 		},
 		["rangeFinder"] = {
 			["StatsFrame"] = {
-				["FadeAmount"] = 0.5,
 				["spell"] = "Tricks of the Trade",
-				["HealthLowPoint"] = 0.85,
+				["FadeAmount"] = 0.5,
 				["item"] = "",
+				["HealthLowPoint"] = 0.85,
 			},
 			["Main"] = {
 				["enabled"] = true,
@@ -55,10 +55,10 @@ ZPerlConfigNew = {
 				["HealthLowPoint"] = 0.85,
 			},
 			["NameFrame"] = {
-				["FadeAmount"] = 0.5,
 				["spell"] = "Tricks of the Trade",
-				["HealthLowPoint"] = 0.85,
+				["FadeAmount"] = 0.5,
 				["item"] = "",
+				["HealthLowPoint"] = 0.85,
 			},
 		},
 		["showAFK"] = 1,
@@ -270,12 +270,6 @@ ZPerlConfigNew = {
 			},
 			["classbarBright"] = 1,
 			["class"] = 1,
-			["frame"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
 			["gradient"] = {
 				["enable"] = 1,
 				["s"] = {
@@ -290,6 +284,12 @@ ZPerlConfigNew = {
 					["g"] = 0.1,
 					["b"] = 0.1,
 				},
+			},
+			["frame"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
 			},
 			["bar"] = {
 				["rage"] = {
@@ -483,30 +483,59 @@ ZPerlConfigNew = {
 			["frame"] = 1,
 			["text"] = 1,
 		},
-		["tooltip"] = {
-			["enable"] = 1,
-			["enableBuffs"] = 1,
-			["modifier"] = "all",
-		},
-		["pet"] = {
-			["happiness"] = {
-				["enabled"] = 1,
-			},
+		["focustarget"] = {
 			["debuffs"] = {
-				["size"] = 18,
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
 			},
-			["threatMode"] = "nameFrame",
-			["castBar"] = {
-			},
-			["scale"] = 0.5046173477172852,
-			["buffs"] = {
-				["rows"] = 3,
-				["size"] = 18,
-				["maxrows"] = 2,
-			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["enable"] = 1,
+			["mana"] = 1,
+			["healprediction"] = 1,
 			["healerMode"] = {
 				["type"] = 1,
 			},
+			["scale"] = 0.7,
+			["absorbs"] = 1,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["targettarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["enable"] = 1,
+			["mana"] = 1,
+			["healprediction"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["scale"] = 0.7,
+			["absorbs"] = 1,
+			["buffs"] = {
+				["castable"] = 0,
+				["size"] = 22,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
 			["size"] = {
 				["width"] = 0,
 			},
@@ -519,17 +548,17 @@ ZPerlConfigNew = {
 				["size"] = 12,
 			},
 			["name"] = 1,
-			["scale"] = 0.7,
 			["healerMode"] = {
 				["type"] = 1,
 			},
+			["scale"] = 0.7,
+			["mana"] = 1,
 			["buffs"] = {
 				["enable"] = 1,
 				["castable"] = 0,
 				["size"] = 12,
 				["maxrows"] = 2,
 			},
-			["mana"] = 1,
 			["size"] = {
 				["width"] = 0,
 			},
@@ -617,8 +646,8 @@ ZPerlConfigNew = {
 		},
 		["custom"] = {
 			["enable"] = true,
-			["alpha"] = 0.5,
 			["blend"] = "ADD",
+			["alpha"] = 0.5,
 			["zones"] = {
 				["Ulduar"] = {
 					[61888] = true,
@@ -665,13 +694,13 @@ ZPerlConfigNew = {
 					[103434] = true,
 					[107439] = true,
 					[108649] = true,
-					[109325] = true,
+					[106730] = true,
 					[105171] = true,
 					[109075] = true,
 					[110214] = true,
 					[106794] = true,
 					[105490] = true,
-					[106730] = true,
+					[109325] = true,
 					[106199] = true,
 				},
 				["Blackwing Descent"] = {
@@ -699,8 +728,8 @@ ZPerlConfigNew = {
 					[40932] = true,
 					[41001] = true,
 					[39837] = true,
-					[40251] = true,
 					[43581] = true,
+					[40251] = true,
 				},
 				["Tomb of Sargeras"] = {
 					[238429] = true,
@@ -821,59 +850,30 @@ ZPerlConfigNew = {
 				},
 			},
 		},
-		["focustarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
+		["tooltip"] = {
 			["enable"] = 1,
-			["mana"] = 1,
-			["healprediction"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["scale"] = 0.7,
-			["absorbs"] = 1,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["rows"] = 3,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
+			["enableBuffs"] = 1,
+			["modifier"] = "all",
 		},
-		["targettarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
+		["pet"] = {
+			["happiness"] = {
+				["enabled"] = 1,
 			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["enable"] = 1,
-			["mana"] = 1,
-			["healprediction"] = 1,
+			["debuffs"] = {
+				["size"] = 18,
+			},
+			["threatMode"] = "nameFrame",
+			["castBar"] = {
+			},
 			["healerMode"] = {
 				["type"] = 1,
 			},
-			["scale"] = 0.7,
-			["absorbs"] = 1,
 			["buffs"] = {
-				["castable"] = 0,
-				["size"] = 22,
 				["rows"] = 3,
-				["wrap"] = 1,
+				["size"] = 18,
 				["maxrows"] = 2,
 			},
-			["percent"] = 1,
+			["scale"] = 0.5046173477172852,
 			["size"] = {
 				["width"] = 0,
 			},
