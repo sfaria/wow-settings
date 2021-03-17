@@ -5,25 +5,25 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 173331,
-			["Level"] = 96,
-			["Link"] = "|cff1eff00|Hitem:173331::::::::54:260::11:1:6707:2:28:1319:9:52:::|h[Courageous Aspirant's Helm]|h|r",
+			["ID"] = 182190,
+			["Level"] = 116,
+			["Link"] = "|cff0070dd|Hitem:182190::::::::57:260::11:3:6706:6652:7194:2:28:1338:9:54:::|h[Tauralus Hide Collar]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 175739,
-			["Level"] = 102,
-			["Link"] = "|cff1eff00|Hitem:175739::::::::56:260::11:1:6707:2:28:1325:9:53:::|h[Reclaimed Maldraxxi Choker]|h|r",
+			["ID"] = 175708,
+			["Level"] = 116,
+			["Link"] = "|cff0070dd|Hitem:175708::::::::57:260::11:3:6706:6652:7194:2:28:1334:9:54:::|h[Reconstructed Family Locket]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 173336,
-			["Level"] = 110,
-			["Link"] = "|cff0070dd|Hitem:173336::::::::55:260::11:1:6706:2:28:1324:9:53:::|h[Waylight Epaulets]|h|r",
+			["ID"] = 175531,
+			["Level"] = 116,
+			["Link"] = "|cff0070dd|Hitem:175531::::::::57:260::11:1:6706:2:28:1340:9:54:::|h[Deceitful Agent's Shoulderpads]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 173320,
-			["Level"] = 98,
-			["Link"] = "|cff0070dd|Hitem:173320::::::::53:260::11:1:6706:2:28:1316:9:51:::|h[Waylight Tunic]|h|r",
+			["ID"] = 175450,
+			["Level"] = 108,
+			["Link"] = "|cff1eff00|Hitem:175450::::::::57:260::11:1:6707:2:28:1334:9:54:::|h[Deceitful Agent's Vest]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 175473,
@@ -36,43 +36,43 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:175465::::::::56:260::11:1:6707:2:28:1326:9:54:::|h[Deceitful Agent's Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 175615,
-			["Level"] = 96,
-			["Link"] = "|cff1eff00|Hitem:175615::::::::55:260::11:1:6707:2:28:1323:9:52:::|h[Courageous Aspirant's Boots]|h|r",
+			["ID"] = 175519,
+			["Level"] = 108,
+			["Link"] = "|cff1eff00|Hitem:175519::::::::58:260::11:1:6707:2:28:1331:9:54:::|h[Deceitful Agent's Treads]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 173348,
-			["Level"] = 96,
-			["Link"] = "|cff1eff00|Hitem:173348::::::::55:260::11:1:6707:2:28:1321:9:52:::|h[Gluttonous Wristwraps]|h|r",
+			["ID"] = 175477,
+			["Level"] = 108,
+			["Link"] = "|cff1eff00|Hitem:175477::::::::57:260::11:1:6707:2:28:1334:9:54:::|h[Deceitful Agent's Wristwraps]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 175616,
-			["Level"] = 104,
-			["Link"] = "|cff0070dd|Hitem:175616::::::::54:260::11:2:6707:6901:2:28:1320:9:52:::|h[Courageous Aspirant's Gloves]|h|r",
+			["ID"] = 175455,
+			["Level"] = 128,
+			["Link"] = "|cffa335ee|Hitem:175455::::::::56:260::11:2:6707:6902:2:28:1340:9:54:::|h[Adored Apprentice's Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 173344,
-			["Level"] = 98,
+			["ID"] = 175706,
+			["Level"] = 116,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:173344::::::::53:260::11:1:6706:2:28:1316:9:51:::|h[Band of Chronicled Deeds]|h|r",
+			["Link"] = "|cff0070dd|Hitem:175706::::::::58:260::11:1:6706:2:28:1327:9:54:::|h[Mind-Torn Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 173344,
-			["Level"] = 98,
+			["ID"] = 175706,
+			["Level"] = 116,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:173344::::::::53:260::11:1:6706:2:9:51:28:1316:::|h[Band of Chronicled Deeds]|h|r",
+			["Link"] = "|cff0070dd|Hitem:175706::::::::58:260::11:1:6706:2:9:54:28:1327:::|h[Mind-Torn Band]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 175718,
-			["Level"] = 102,
+			["ID"] = 184279,
+			["Level"] = 122,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:175718::::::::55:260::11:1:6707:2:28:1324:9:53:::|h[Ascended Defender's Crest]|h|r",
+			["Link"] = "|cff0070dd|Hitem:184279::::::::56:260::11:2:6706:6652:2:28:745:9:55:::|h[Siphoning Blood-Drinker]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 175718,
-			["Level"] = 102,
+			["ID"] = 184279,
+			["Level"] = 122,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:175718::::::::55:260::11:1:6707:2:9:53:28:1324:::|h[Ascended Defender's Crest]|h|r",
+			["Link"] = "|cff0070dd|Hitem:184279::::::::57:260::11:2:6706:6652:2:28:745:9:55:::|h[Siphoning Blood-Drinker]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 182561,
@@ -80,16 +80,16 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:182561::::::::55:260::11:2:6706:6652:2:28:1324:9:53:::|h[Fallen Disciple's Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 180819,
-			["Level"] = 116,
+			["ID"] = 176278,
+			["Level"] = 122,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:180819::::::::56:260::11:2:6707:6901:2:28:1326:9:54:::|h[Bonefused Crusher]|h|r",
+			["Link"] = "|cff0070dd|Hitem:176278::::::::57:260::11:1:6706:2:28:745:9:55:::|h[Ruthless Contender's Hammer]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 180819,
-			["Level"] = 116,
+			["ID"] = 176278,
+			["Level"] = 122,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:180819::::::::56:260::11:2:6707:6901:2:9:54:28:1326:::|h[Bonefused Crusher]|h|r",
+			["Link"] = "|cff0070dd|Hitem:176278::::::::57:260::11:1:6706:2:9:55:28:745:::|h[Ruthless Contender's Hammer]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
