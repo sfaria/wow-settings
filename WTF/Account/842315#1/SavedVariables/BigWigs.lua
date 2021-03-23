@@ -15,35 +15,41 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AltPower"] = {
 		},
-		["BigWigs_Plugins_Colors"] = {
-		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
 					["BigWigsAnchor_width"] = 220.0001983642578,
-					["BigWigsEmphasizeAnchor_width"] = 320.0000610351563,
 					["BigWigsEmphasizeAnchor_height"] = 22.00004768371582,
 					["BigWigsAnchor_height"] = 15.99991512298584,
+					["BigWigsEmphasizeAnchor_width"] = 320.0000610351563,
 				},
 			},
 		},
+		["BigWigs_Bosses_Surgeon Stitchflesh"] = {
+		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Proximity"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_The Necrotic Wake Trash"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+		},
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Bosses_Nalthor the Rimebinder"] = {
 		},
 	},
 	["profileKeys"] = {

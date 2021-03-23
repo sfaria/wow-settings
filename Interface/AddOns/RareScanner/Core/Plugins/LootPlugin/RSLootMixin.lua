@@ -29,14 +29,33 @@ end
 
 function RSLootMixin:OnEnter()
 	if (self:GetParent() and self:GetParent():GetParent()) then
-		local _, _, _, _, itemClassID, itemSubClassID = RSGeneralDB.GetItemInfo(self.itemID)
+		local itemLink, _, _, _, itemClassID, itemSubClassID = RSGeneralDB.GetItemInfo(self.itemID)
 
 		local toolTip = self:GetParent().LootBarToolTip
 		toolTip:SetOwner(self:GetParent():GetParent(), RSConfigDB:GetLootTooltipPosition())
 		toolTip:SetHyperlink(self.itemLink)
 		toolTip:SetParent(self)
-		toolTip:AddLine(string.format(AL["LOOT_TOGGLE_FILTER"], GetItemClassInfo(self.itemClassID), GetItemSubClassInfo(self.itemClassID, self.itemSubClassID)), 1,1,0)
-		toolTip:AddLine(AL["LOOT_TOGGLE_INDIVIDUAL_FILTER"], 1,1,0)
+		
+		-- Other addons support
+		if (CanIMogIt and RSConfigDB.IsShowingLootCanimogitTooltip()) then
+			toolTip:AddLine(CanIMogIt:GetTooltipText(itemLink))
+		end
+		
+		if (RSConfigDB.IsShowingLootTooltipsCommands()) then
+			toolTip:AddLine(string.format(AL["LOOT_TOGGLE_FILTER"], GetItemClassInfo(self.itemClassID), GetItemSubClassInfo(self.itemClassID, self.itemSubClassID)), 1,1,0)
+			toolTip:AddLine(AL["LOOT_TOGGLE_INDIVIDUAL_FILTER"], 1,1,0)
+		end
+	
+		if (RSConfigDB.IsShowingCovenantRequirement()) then
+			if (RSUtils.Contains(RSConstants.ITEMS_REQUIRE_NECROLORD, self.itemID)) then
+				toolTip:AddLine(string.format(AL["LOOT_COVENANT_REQUIREMENT"], AL["NOTE_NECROLORDS"]), 0.3,0.7,0.2)
+			elseif (RSUtils.Contains(RSConstants.ITEMS_REQUIRE_NIGHT_FAE, self.itemID)) then
+				toolTip:AddLine(string.format(AL["LOOT_COVENANT_REQUIREMENT"], AL["NOTE_NIGHT_FAE"]), 0.6,0.2,0.7)
+			elseif (RSUtils.Contains(RSConstants.ITEMS_REQUIRE_VENTHYR, self.itemID)) then
+				toolTip:AddLine(string.format(AL["LOOT_COVENANT_REQUIREMENT"], AL["NOTE_VENTHYR"]), 0.7,0,0)
+			end
+		end
+		
 		if (RSConstants.DEBUG_MODE) then
 			toolTip:AddLine(self.itemID, 1,1,0)
 		end

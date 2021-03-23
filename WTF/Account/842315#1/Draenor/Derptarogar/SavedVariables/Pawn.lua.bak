@@ -1,95 +1,95 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0416,
+	["LastVersion"] = 2.0417,
 	["LastPlayerFullName"] = "Derptarogar-Draenor",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 182190,
-			["Level"] = 116,
-			["Link"] = "|cff0070dd|Hitem:182190::::::::57:260::11:3:6706:6652:7194:2:28:1338:9:54:::|h[Tauralus Hide Collar]|h|r",
+			["ID"] = 172253,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:172253::::::::60:260::13:2:6893:7185:4:28:391:29:49:30:32:9:60:::|h[Shadebound Helm]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 175708,
-			["Level"] = 116,
-			["Link"] = "|cff0070dd|Hitem:175708::::::::57:260::11:3:6706:6652:7194:2:28:1334:9:54:::|h[Reconstructed Family Locket]|h|r",
+			["ID"] = 178707,
+			["Level"] = 128,
+			["Link"] = "|cff0070dd|Hitem:178707::::::::59:260::17:4:7217:6771:6652:7193:2:28:1711:9:56:::|h[Trailspinner Pendant]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 175531,
-			["Level"] = 116,
-			["Link"] = "|cff0070dd|Hitem:175531::::::::57:260::11:1:6706:2:28:1340:9:54:::|h[Deceitful Agent's Shoulderpads]|h|r",
+			["ID"] = 178779,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178779::::::::60:260::23:5:7362:7359:6652:1498:6646:1:28:749:::|h[Undying Chill Shoulderpads]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 175450,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175450::::::::57:260::11:1:6707:2:28:1334:9:54:::|h[Deceitful Agent's Vest]|h|r",
+			["ID"] = 172250,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:172250::::::::60:260::13:2:6893:7185:4:28:391:29:49:30:32:9:60:::|h[Shadebound Vest]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 175473,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175473::::::::56:260::11:1:6707:2:28:1326:9:54:::|h[Deceitful Agent's Belt]|h|r",
+			["ID"] = 172256,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:172256::::::::60:260::13:2:6893:7185:4:28:391:29:32:30:49:9:60:::|h[Shadebound Waistguard]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 175465,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175465::::::::56:260::11:1:6707:2:28:1326:9:54:::|h[Deceitful Agent's Breeches]|h|r",
+			["ID"] = 172254,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:172254::::::::60:260::13:2:6893:7185:4:28:391:29:36:30:40:9:60:::|h[Shadebound Greaves]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 175519,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175519::::::::58:260::11:1:6707:2:28:1331:9:54:::|h[Deceitful Agent's Treads]|h|r",
+			["ID"] = 178731,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178731::::::::60:260::23:5:7362:7359:6652:1498:6646:1:28:749:::|h[Viscera-Stitched Footpads]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 175477,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175477::::::::57:260::11:1:6707:2:28:1334:9:54:::|h[Deceitful Agent's Wristwraps]|h|r",
+			["ID"] = 172257,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:172257::::::::60:260::13:2:6893:7185:4:28:391:29:49:30:40:9:60:::|h[Shadebound Armguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 175455,
-			["Level"] = 128,
-			["Link"] = "|cffa335ee|Hitem:175455::::::::56:260::11:2:6707:6902:2:28:1340:9:54:::|h[Adored Apprentice's Gloves]|h|r",
+			["ID"] = 172252,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:172252::::::::60:260::13:2:6893:7185:4:28:391:29:36:30:49:9:60:::|h[Shadebound Gauntlets]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 175706,
-			["Level"] = 116,
+			["ID"] = 178933,
+			["Level"] = 158,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:175706::::::::58:260::11:1:6706:2:28:1327:9:54:::|h[Mind-Torn Band]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178933::::::::60:260::1:5:6805:6652:7194:1472:4785:1:28:747:::|h[Arachnid Cipher Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 175706,
-			["Level"] = 116,
+			["ID"] = 184165,
+			["Level"] = 140,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:175706::::::::58:260::11:1:6706:2:9:54:28:1327:::|h[Mind-Torn Band]|h|r",
+			["Link"] = "|cff0070dd|Hitem:184165::::::::58:260::11:1:6706:2:9:58:28:807:::|h[Seal of Fordragon]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 184279,
-			["Level"] = 122,
+			["ID"] = 178742,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:184279::::::::56:260::11:2:6706:6652:2:28:745:9:55:::|h[Siphoning Blood-Drinker]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178742::::::::60:260::23:5:7362:7359:6652:1498:6646:1:28:749:::|h[Bottled Flayedwing Toxin]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 184279,
-			["Level"] = 122,
+			["ID"] = 178769,
+			["Level"] = 158,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:184279::::::::57:260::11:2:6706:6652:2:28:745:9:55:::|h[Siphoning Blood-Drinker]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178769::::::::60:260::1:4:6805:6652:1472:4785:1:28:747:::|h[Infinitely Divisible Ooze]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 182561,
-			["Level"] = 110,
-			["Link"] = "|cff0070dd|Hitem:182561::::::::55:260::11:2:6706:6652:2:28:1324:9:53:::|h[Fallen Disciple's Cloak]|h|r",
+			["ID"] = 175767,
+			["Level"] = 126,
+			["Link"] = "|cff1eff00|Hitem:175767::::::::60:260::11:1:6707:2:28:1239:9:57:::|h[Glitterwing Greatcloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 176278,
-			["Level"] = 122,
+			["ID"] = 176798,
+			["Level"] = 131,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:176278::::::::57:260::11:1:6706:2:28:745:9:55:::|h[Ruthless Contender's Hammer]|h|r",
+			["Link"] = "|cff1eff00|Hitem:176798::::::::60:260::23:3:6908:6652:1714:2:28:749:9:60:::|h[Larion Claw of the Harmonious]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 176278,
-			["Level"] = 122,
+			["ID"] = 175985,
+			["Level"] = 126,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:176278::::::::57:260::11:1:6706:2:9:55:28:745:::|h[Ruthless Contender's Hammer]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175985::::::::60:260::11:1:6707:2:28:1931:9:57:::|h[Grove Defender's Pummeler]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

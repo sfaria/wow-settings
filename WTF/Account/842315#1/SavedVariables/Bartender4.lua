@@ -127,8 +127,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -137,8 +137,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -178,25 +178,25 @@ Bartender4DB = {
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 92.70671081542969,
+								["y"] = 145.8189697265625,
 								["x"] = -253.4999694824219,
 								["point"] = "BOTTOM",
 							},
 							["padding"] = 6,
 						}, -- [1]
 						{
-							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.5000305175781,
-								["x"] = -231.5000915527344,
-								["point"] = "CENTER",
+								["y"] = 60.46566009521484,
+								["x"] = -253.4999694824219,
+								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [2]
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 49.70671844482422,
+								["y"] = 100.4656524658203,
 								["x"] = -253.4999694824219,
 								["point"] = "BOTTOM",
 							},
@@ -264,9 +264,9 @@ Bartender4DB = {
 				},
 				["Derptarogar - Draenor"] = {
 					["position"] = {
-						["y"] = 285.2334899902344,
-						["x"] = -297.6196899414063,
-						["point"] = "BOTTOM",
+						["y"] = -233.1704864501953,
+						["x"] = -239.9603881835938,
+						["point"] = "CENTER",
 					},
 					["version"] = 3,
 				},
@@ -386,8 +386,8 @@ Bartender4DB = {
 				},
 				["Derptarogar - Draenor"] = {
 					["position"] = {
-						["y"] = 143.2067413330078,
-						["x"] = -254.816650390625,
+						["y"] = 222.0829467773438,
+						["x"] = -243.3693542480469,
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
@@ -416,8 +416,8 @@ Bartender4DB = {
 				["Derptarogar - Draenor"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 126.7067184448242,
-						["x"] = -73.49981689453125,
+						["y"] = 191.4989471435547,
+						["x"] = -78.2000732421875,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -443,8 +443,8 @@ Bartender4DB = {
 				},
 				["Derptarogar - Draenor"] = {
 					["position"] = {
-						["y"] = 143.7067565917969,
-						["x"] = -164.4998779296875,
+						["y"] = 215.2970428466797,
+						["x"] = -154.4395141601563,
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
@@ -461,14 +461,14 @@ Bartender4DB = {
 		["Fremdschämen - Draenor"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
 			["buttonlock"] = true,
+			["outofrange"] = "hotkey",
 		},
 		["Spießer - Draenor"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
 			["buttonlock"] = true,
+			["outofrange"] = "hotkey",
 		},
 		["Derptarogar - Draenor"] = {
 			["blizzardVehicle"] = true,
