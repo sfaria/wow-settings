@@ -1,0 +1,58 @@
+
+SilverDragon3DB = {
+	["global"] = {
+		["mob_count"] = {
+			[160882] = 1,
+			[171008] = 1,
+			[171211] = 1,
+		},
+		["mob_seen"] = {
+			[160882] = 1616606186,
+			[171008] = 1616606240,
+			[171211] = 1616606591,
+		},
+	},
+	["namespaces"] = {
+		["Overlay"] = {
+		},
+		["VignetteStretch"] = {
+		},
+		["TomTom"] = {
+		},
+		["Macro"] = {
+		},
+		["Tooltip"] = {
+		},
+		["Scan_Chat"] = {
+		},
+		["ClickTarget"] = {
+		},
+		["LDB"] = {
+			["profiles"] = {
+				["Default"] = {
+					["minimap"] = {
+						["minimapPos"] = 204.4793445768806,
+					},
+				},
+			},
+		},
+		["Scan_Vignettes"] = {
+		},
+		["Marker"] = {
+		},
+		["Sync"] = {
+		},
+		["Announce"] = {
+		},
+		["Scan_Targets"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+SilverDragon2DB = nil

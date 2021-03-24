@@ -1,0 +1,9 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "eu-Derptarogar-draenor"
+RaiderIO_MissingCharacters = {
+	["eu-Derptarogar-draenor"] = true,
+	["eu-Ingvarr-draenor"] = true,
+}
+RaiderIO_CachedRuns = nil

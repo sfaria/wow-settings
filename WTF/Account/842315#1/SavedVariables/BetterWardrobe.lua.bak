@@ -1,0 +1,56 @@
+
+BetterWardrobe_Options = {
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BetterWardrobe_CharacterData = {
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+	},
+}
+BetterWardrobe_SavedSetData = {
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+	},
+}
+BetterWardrobe_SubstituteItemData = {
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BetterWardrobe_ListData = {
+	["favoritesDB"] = {
+		["profileKeys"] = {
+			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+		},
+	},
+	["lastUpdte"] = 1,
+	["collectionListDB"] = {
+		["profileKeys"] = {
+			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+		},
+		["profiles"] = {
+			["Derptarogar - Draenor"] = {
+			},
+		},
+	},
+	["OutfitDB"] = {
+		["profileKeys"] = {
+			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+		},
+	},
+	["HiddenAppearanceDB"] = {
+		["profileKeys"] = {
+			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+		},
+	},
+}

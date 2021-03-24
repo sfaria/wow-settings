@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-1403-09BFC8BE"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-1403-09BFC8BE"] = {
+					["class"] = "ROGUE",
+					["name"] = "Derptarogar",
+					["realm"] = "Draenor",
+				},
+			},
+		},
+	},
+}

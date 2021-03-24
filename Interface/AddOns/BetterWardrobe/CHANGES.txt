@@ -1,0 +1,12 @@
+tag 1cae733357c463b8272b1e7ebf6bb25aeb0bfac6 V2.8.1
+Author:	SLOKnightfall <SLOKnightfall@gmail.com>
+Date:	Tue Mar 9 21:33:25 2021 -0800
+
+bugfix
+
+commit 803053332b8a2fd4a9b1ec9e5da128d3b7383c32
+Author: SLOKnightfall <SLOKnightfall@gmail.com>
+Date:   Tue Mar 9 21:33:03 2021 -0800
+
+    -Removed ColorData file from the ToC
+
