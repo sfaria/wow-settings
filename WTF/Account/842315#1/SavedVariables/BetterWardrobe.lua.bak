@@ -33,7 +33,6 @@ BetterWardrobe_ListData = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
 		},
 	},
-	["lastUpdte"] = 1,
 	["collectionListDB"] = {
 		["profileKeys"] = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
@@ -47,7 +46,15 @@ BetterWardrobe_ListData = {
 		["profileKeys"] = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
 		},
+		["char"] = {
+			["Derptarogar - Draenor"] = {
+				["lastTransmogOutfitIDSpec"] = {
+					[2] = "",
+				},
+			},
+		},
 	},
+	["lastUpdte"] = 1,
 	["HiddenAppearanceDB"] = {
 		["profileKeys"] = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",

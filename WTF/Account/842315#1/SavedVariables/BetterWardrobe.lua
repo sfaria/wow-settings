@@ -17,6 +17,12 @@ BetterWardrobe_SavedSetData = {
 	["profileKeys"] = {
 		["Derptarogar - Draenor"] = "Derptarogar - Draenor",
 	},
+	["global"] = {
+		["sets"] = {
+			["Derptarogar - Draenor"] = {
+			},
+		},
+	},
 }
 BetterWardrobe_SubstituteItemData = {
 	["profileKeys"] = {
@@ -32,6 +38,10 @@ BetterWardrobe_ListData = {
 		["profileKeys"] = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
 		},
+		["profiles"] = {
+			["Derptarogar - Draenor"] = {
+			},
+		},
 	},
 	["collectionListDB"] = {
 		["profileKeys"] = {
@@ -42,6 +52,7 @@ BetterWardrobe_ListData = {
 			},
 		},
 	},
+	["lastUpdte"] = 1,
 	["OutfitDB"] = {
 		["profileKeys"] = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
@@ -54,10 +65,13 @@ BetterWardrobe_ListData = {
 			},
 		},
 	},
-	["lastUpdte"] = 1,
 	["HiddenAppearanceDB"] = {
 		["profileKeys"] = {
 			["Derptarogar - Draenor"] = "Derptarogar - Draenor",
+		},
+		["profiles"] = {
+			["Derptarogar - Draenor"] = {
+			},
 		},
 	},
 }

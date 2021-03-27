@@ -5,14 +5,14 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 172253,
-			["Level"] = 168,
-			["Link"] = "|cff0070dd|Hitem:172253::::::::60:260::13:2:6893:7185:4:9:60:28:391:29:49:30:32:::|h[Shadebound Helm]|h|r",
+			["ID"] = 181581,
+			["Level"] = 177,
+			["Link"] = "|cff0070dd|Hitem:181581::::::::60:260::74:5:6652:7194:1472:5874:6616:1:28:2060:::|h[Soulbearer's Helm]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 178707,
-			["Level"] = 128,
-			["Link"] = "|cff0070dd|Hitem:178707::::::::60:260::17:4:7217:6771:6652:7193:2:9:56:28:1711:::|h[Trailspinner Pendant]|h|r",
+			["ID"] = 175740,
+			["Level"] = 155,
+			["Link"] = "|cff0070dd|Hitem:175740::::::::60:260::25:5:6652:7193:1472:5852:6616:1:28:1707:::|h[Valeshroud Torque]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 178779,
@@ -75,21 +75,21 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178769::::::::60:260::1:4:6805:6652:1472:4785:1:28:747:::|h[Infinitely Divisible Ooze]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 175767,
-			["Level"] = 126,
-			["Link"] = "|cff1eff00|Hitem:175767::::::::60:260::11:1:6707:2:9:57:28:1239:::|h[Glitterwing Greatcloak]|h|r",
+			["ID"] = 175765,
+			["Level"] = 138,
+			["Link"] = "|cff1eff00|Hitem:175765::::::::60:260::11:1:6707:2:9:59:28:1427:::|h[Dredwing Shroud]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 176798,
-			["Level"] = 131,
+			["ID"] = 181690,
+			["Level"] = 177,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff1eff00|Hitem:176798::::::::60:260::23:3:6908:6652:1714:2:9:60:28:749:::|h[Larion Claw of the Harmonious]|h|r",
+			["Link"] = "|cff0070dd|Hitem:181690::::::::60:260::74:4:6652:1472:5874:6616:1:28:2060:::|h[Gorewrought Crusher]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 180666,
-			["Level"] = 122,
+			["ID"] = 177643,
+			["Level"] = 146,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:180666::::::::60:260::11:1:6706:2:9:55:28:1337:::|h[Bonebender's Warblade]|h|r",
+			["Link"] = "|cff0070dd|Hitem:177643::::::::60:260::11:1:6706:2:28:1428:9:59:::|h[Sinfall Duelist's Rapier]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

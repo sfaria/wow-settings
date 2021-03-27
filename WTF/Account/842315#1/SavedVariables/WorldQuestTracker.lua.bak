@@ -5,8 +5,226 @@ WQTrackerDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["talking_heads_heard"] = {
+				[163438] = true,
+				[164391] = true,
+				[159170] = true,
+				[159178] = true,
+				[153894] = true,
+				[163289] = true,
+				[161659] = true,
+				[163431] = true,
+				[166463] = true,
+				[159171] = true,
+				[159179] = true,
+				[153895] = true,
+				[163290] = true,
+				[163739] = true,
+				[159172] = true,
+				[159196] = true,
+				[163740] = true,
+				[53591] = true,
+				[159173] = true,
+				[163292] = true,
+				[163291] = true,
+				[72401] = true,
+				[159205] = true,
+				[166672] = true,
+				[166466] = true,
+				[161654] = true,
+				[159174] = true,
+				[78725] = true,
+				[167490] = true,
+				[161655] = true,
+				[163742] = true,
+				[167491] = true,
+				[164388] = true,
+				[162721] = true,
+				[159175] = true,
+				[163593] = true,
+				[72398] = true,
+				[165821] = true,
+				[165822] = true,
+				[159197] = true,
+				[164389] = true,
+				[164397] = true,
+				[159176] = true,
+				[161660] = true,
+				[162720] = true,
+				[58080] = true,
+				[163859] = true,
+				[159206] = true,
+				[164390] = true,
+				[163741] = true,
+				[159177] = true,
+				[163847] = true,
+				[72399] = true,
+				[161658] = true,
+				[163430] = true,
+				[164399] = true,
+			},
+			["history"] = {
+				["quest"] = {
+					["global"] = {
+						[61342] = 1,
+						[60597] = 1,
+						[59234] = 1,
+						["total"] = 4,
+						[58605] = 1,
+					},
+					["character"] = {
+						["Player-1403-09BFC8BE"] = {
+							[61342] = 1,
+							[60597] = 1,
+							[59234] = 1,
+							["total"] = 4,
+							[58605] = 1,
+						},
+					},
+				},
+				["period"] = {
+					["global"] = {
+						["210326"] = {
+							["quest"] = 4,
+							["gold"] = 5492700,
+						},
+					},
+					["character"] = {
+						["Player-1403-09BFC8BE"] = {
+							["210326"] = {
+								["quest"] = 4,
+								["gold"] = 5492700,
+							},
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["gold"] = 5492700,
+					},
+					["character"] = {
+						["Player-1403-09BFC8BE"] = {
+							["gold"] = 5492700,
+						},
+					},
+				},
+			},
+			["TutorialTracker"] = 2,
+			["groupfinder"] = {
+				["frame"] = {
+					["y"] = 89.90496826171875,
+					["x"] = -60.1898193359375,
+					["point"] = "CENTER",
+					["scale"] = 1,
+				},
+			},
+			["is_BFA_version"] = true,
 			["quests_tracked"] = {
 				["Player-1403-09BFC8BE"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-1403-09BFC8BE"] = {
+					[62235] = {
+						["expireAt"] = 1616880324,
+						["rewardAmount"] = 35,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61060] = {
+						["expireAt"] = 1616862984,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[60534] = {
+						["expireAt"] = 1617001284,
+						["rewardAmount"] = "|cff2292FF164",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[60659] = {
+						["expireAt"] = 1616932086,
+						["rewardAmount"] = "|cff2292FF155",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[59578] = {
+						["expireAt"] = 1616897604,
+						["rewardAmount"] = "|cff2292FF164",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[60602] = {
+						["expireAt"] = 1616880246,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[59642] = {
+						["expireAt"] = 1616880264,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61813] = {
+						["expireAt"] = 1617174084,
+						["rewardAmount"] = 250,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[58993] = {
+						["expireAt"] = 1616897604,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[60855] = {
+						["expireAt"] = 1616880324,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61540] = {
+						["expireAt"] = 1616914824,
+						["rewardAmount"] = "|cff2292FF155",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[61543] = {
+						["expireAt"] = 1616914857,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 3502461,
+					},
+					[61886] = {
+						["expireAt"] = 1616914866,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 2004597,
+					},
+					[59705] = {
+						["expireAt"] = 1616863044,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61967] = {
+						["expireAt"] = 1616914884,
+						["rewardAmount"] = 140,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61946] = {
+						["expireAt"] = 1616914884,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045107,
+					},
+					[60929] = {
+						["expireAt"] = 1616932164,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[58605] = {
+						["expireAt"] = 1616932104,
+						["rewardAmount"] = 250,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61866] = {
+						["expireAt"] = 1616914884,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 2004597,
+					},
+					[61783] = {
+						["expireAt"] = 1616914884,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 2004597,
+					},
 				},
 			},
 			["player_names"] = {
@@ -15,6 +233,18 @@ WQTrackerDB = {
 					["name"] = "Derptarogar",
 					["realm"] = "Draenor",
 				},
+			},
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-1403-09BFC8BE"] = {
+					},
+				},
+			},
+			["flymaster_tracker_frame_pos"] = {
+				["y"] = -238.618896484375,
+				["x"] = -267.8565673828125,
+				["point"] = "TOPRIGHT",
+				["scale"] = 1,
 			},
 		},
 	},
