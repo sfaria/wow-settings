@@ -1,0 +1,262 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Derptarogar - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["talking_heads_heard"] = {
+				[0] = true,
+				[154899] = true,
+				[153899] = true,
+				[166790] = true,
+				[165409] = true,
+				[164298] = true,
+				[166346] = true,
+				[155742] = true,
+				[155758] = true,
+				[152615] = true,
+				[155743] = true,
+				[165824] = true,
+				[155745] = true,
+				[167430] = true,
+				[155159] = true,
+				[152635] = true,
+				[165859] = true,
+				[167558] = true,
+				[166701] = true,
+				[153890] = true,
+				[152636] = true,
+				[154573] = true,
+				[167543] = true,
+				[167559] = true,
+				[161479] = true,
+				[164543] = true,
+				[155161] = true,
+				[164941] = true,
+				[152638] = true,
+				[164942] = true,
+				[152639] = true,
+				[157672] = true,
+				[164308] = true,
+				[152640] = true,
+				[157752] = true,
+				[153196] = true,
+				[155752] = true,
+				[166706] = true,
+				[164309] = true,
+				[152641] = true,
+				[155737] = true,
+				[155753] = true,
+				[155757] = true,
+				[155748] = true,
+				[164310] = true,
+				[162802] = true,
+				[164088] = true,
+				[153894] = true,
+				[155738] = true,
+				[155162] = true,
+				[164943] = true,
+				[155747] = true,
+				[164311] = true,
+				[162803] = true,
+				[164089] = true,
+				[157755] = true,
+				[160006] = true,
+				[160007] = true,
+				[155741] = true,
+				[155736] = true,
+				[163560] = true,
+				[153895] = true,
+				[167138] = true,
+				[165823] = true,
+				[165821] = true,
+				[155756] = true,
+				[153892] = true,
+			},
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-1403-09BFC8BE"] = {
+					},
+				},
+			},
+			["TutorialTracker"] = 2,
+			["groupfinder"] = {
+				["enabled"] = false,
+			},
+			["is_BFA_version"] = true,
+			["quests_tracked"] = {
+				["Player-1403-09BFC8BE"] = {
+					{
+						["mapID"] = 1536,
+						["index"] = 0,
+						["timeFraction"] = 21231.561,
+						["questID"] = 59703,
+						["questType"] = 1,
+						["mapIDSynthetic"] = 0,
+						["expireAt"] = 1617554182,
+						["numObjectives"] = 1,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_gold",
+						["timeAdded"] = 1617475582,
+						["rewardAmount"] = 270,
+						["timeLeft"] = 1310,
+						["LastDistance"] = 0.3513922521774779,
+					}, -- [1]
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-1403-09BFC8BE"] = {
+					[51296] = {
+						["expireAt"] = 1617606041,
+						["rewardAmount"] = "|cffc557FF85",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[60786] = {
+						["expireAt"] = 1617554258,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61595] = {
+						["expireAt"] = 1617519638,
+						["rewardAmount"] = "10",
+						["rewardTexture"] = 3502461,
+					},
+					[59643] = {
+						["expireAt"] = 1617536919,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61784] = {
+						["expireAt"] = 1617519642,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667492,
+					},
+					[61816] = {
+						["expireAt"] = 1617778838,
+						["rewardAmount"] = 250,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61631] = {
+						["expireAt"] = 1617502418,
+						["rewardAmount"] = "|cff2292FF171",
+						["rewardTexture"] = 135697,
+					},
+					[59680] = {
+						["expireAt"] = 1617536982,
+						["rewardAmount"] = "|cff2292FF158",
+						["rewardTexture"] = 1398088,
+					},
+					[61885] = {
+						["expireAt"] = 1617519639,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 2004597,
+					},
+					[61868] = {
+						["expireAt"] = 1617519638,
+						["rewardAmount"] = "18",
+						["rewardTexture"] = 2004597,
+					},
+					[61947] = {
+						["expireAt"] = 1617519638,
+						["rewardAmount"] = "18",
+						["rewardTexture"] = 133675,
+					},
+					[60929] = {
+						["expireAt"] = 1617502422,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[60899] = {
+						["expireAt"] = 1617519698,
+						["rewardAmount"] = "|cff2292FF158",
+						["rewardTexture"] = 1373904,
+					},
+					[61148] = {
+						["expireAt"] = 1617554262,
+						["rewardAmount"] = 0,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-1403-09BFC8BE"] = {
+					["class"] = "ROGUE",
+					["name"] = "Derptarogar",
+					["realm"] = "Draenor",
+				},
+			},
+			["history"] = {
+				["quest"] = {
+					["global"] = {
+						[58207] = 1,
+						[58605] = 1,
+						[60565] = 1,
+						[59771] = 1,
+						[61477] = 1,
+						[61545] = 1,
+						[59585] = 1,
+						["total"] = 9,
+						[62451] = 1,
+						[60531] = 1,
+					},
+					["character"] = {
+						["Player-1403-09BFC8BE"] = {
+							[58207] = 1,
+							[58605] = 1,
+							[60565] = 1,
+							[59771] = 1,
+							[61477] = 1,
+							[61545] = 1,
+							[59585] = 1,
+							["total"] = 9,
+							[62451] = 1,
+							[60531] = 1,
+						},
+					},
+				},
+				["period"] = {
+					["global"] = {
+						["210401"] = {
+							["quest"] = 4,
+							["resource"] = 175,
+							["gold"] = 5256000,
+						},
+						["210403"] = {
+							["quest"] = 5,
+						},
+					},
+					["character"] = {
+						["Player-1403-09BFC8BE"] = {
+							["210401"] = {
+								["quest"] = 4,
+								["resource"] = 175,
+								["gold"] = 5256000,
+							},
+							["210403"] = {
+								["quest"] = 5,
+							},
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["resource"] = 175,
+						["gold"] = 5256000,
+					},
+					["character"] = {
+						["Player-1403-09BFC8BE"] = {
+							["resource"] = 175,
+							["gold"] = 5256000,
+						},
+					},
+				},
+			},
+			["flymaster_tracker_frame_pos"] = {
+				["y"] = -30,
+				["x"] = 59.16650390625,
+				["point"] = "TOP",
+				["scale"] = 1,
+			},
+		},
+	},
+}

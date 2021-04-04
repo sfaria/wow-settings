@@ -5,6 +5,8 @@ HandyNotes_ShadowlandsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["icon_display_pet_battles"] = false,
+			["icon_display_slime_cat"] = true,
 		},
 	},
 }
