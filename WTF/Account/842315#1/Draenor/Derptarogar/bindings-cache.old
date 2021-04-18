@@ -4,7 +4,7 @@ bind BUTTON4 CLICK BT4Button25:LeftButton
 bind R ACTIONBUTTON3
 bind 1 CLICK BT4Button28:LeftButton
 bind 2 CLICK BT4Button27:LeftButton
-bind 3 MULTIACTIONBAR3BUTTON4
+bind 3 CLICK BT4Button31:LeftButton
 bind 4 CLICK BT4Button29:LeftButton
 bind 5 MULTIACTIONBAR3BUTTON6
 bind 6 NONE
@@ -12,8 +12,8 @@ bind 7 NONE
 bind 8 NONE
 bind G ACTIONBUTTON4
 bind F ACTIONBUTTON5
-bind V ACTIONBUTTON7
+bind V CLICK BT4Button26:LeftButton
 bind [ PAWN_COMPARE_LEFT
 bind ] PAWN_COMPARE_RIGHT
-bind BUTTON5 CLICK BT4Button26:LeftButton
+bind BUTTON5 CLICK BT4Button35:LeftButton
 bind ` SHAPESHIFTBUTTON1
