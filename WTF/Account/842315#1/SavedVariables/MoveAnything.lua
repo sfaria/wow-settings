@@ -11,9 +11,9 @@ MADB = {
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
+	["tooltips"] = true,
 	["playSound"] = false,
 	["noBags"] = false,
 	["collapsed"] = true,
-	["tooltips"] = true,
+	["closeGUIOnEscape"] = false,
 }

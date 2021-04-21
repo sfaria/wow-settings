@@ -3,8 +3,16 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "eu-Derptarogar-draenor"
 RaiderIO_MissingCharacters = {
-	["eu-Tpph-magtheridon"] = true,
-	["eu-Adiboi-draenor"] = true,
-	["eu-party2-draenor"] = true,
+	["eu-Alfablót-draenor"] = true,
+	["eu-Andromidaa-draenor"] = true,
+	["eu-Shambambino-draenor"] = true,
+	["eu-Mexcan-draenor"] = true,
+	["eu-Tjurputte-draenor"] = true,
+	["eu-Stoica-draenor"] = true,
+	["eu-Zanzana-draenor"] = true,
+	["eu-Alastrial-draenor"] = true,
+	["eu-Odíúm-draenor"] = true,
+	["eu-Xphenzer-draenor"] = true,
+	["eu-Zarjaz-draenor"] = true,
 }
 RaiderIO_CachedRuns = nil

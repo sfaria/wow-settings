@@ -8,11 +8,11 @@ ThreatPlatesDB = {
 			},
 		},
 	},
+	["global"] = {
+		["version"] = "10.1.6",
+	},
 	["profileKeys"] = {
 		["Derptarogar - Draenor"] = "Default",
-	},
-	["global"] = {
-		["version"] = "10.1.5",
 	},
 	["profiles"] = {
 		["Default"] = {

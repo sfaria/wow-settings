@@ -80,10 +80,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178851::::::::60:260::33:5:7380:7359:6652:1511:6646:1:28:1279:::|h[Cloak of Enveloping Manifestations]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 180095,
-			["Level"] = 207,
+			["ID"] = 178834,
+			["Level"] = 210,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:180095::::::::60:260::35:5:7397:7359:6652:1521:6646::::|h[Penitent Edge]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178834::::::::60:260::35:5:7398:7359:6652:1524:6646::::|h[Stoneguardian's Morningstar]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 180095,

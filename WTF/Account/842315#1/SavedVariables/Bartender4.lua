@@ -127,8 +127,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -137,8 +137,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -461,14 +461,14 @@ Bartender4DB = {
 		["Fremdschämen - Draenor"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
 			["buttonlock"] = true,
+			["outofrange"] = "hotkey",
 		},
 		["Spießer - Draenor"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
 			["buttonlock"] = true,
+			["outofrange"] = "hotkey",
 		},
 		["Derptarogar - Draenor"] = {
 			["blizzardVehicle"] = true,
